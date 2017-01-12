@@ -13,12 +13,9 @@ title: Experience
 
 
 # Academic Experience
-12/2016- Now        Postdoc in Department of medical informatics at Erasmus MC, Rotterdam, Nertherlands
-
+12/2016- Now        Postdoc in Department of medical informatics at Erasmus MC, Rotterdam, Nertherlands. <br>
 09/2013-12/2016     Ph.D. Candidate in Bioinformatics,
                     University of Copenhagen, Copenhagen, Denmark <br>
-
-
 09/2008 - 03/2011   MSc in Computer Science, 
                     Shanghai Jiao Tong University, Shanghai, P. R. China.  <br>
 09/2004 - 06/2008   BSc in Electrical Engineering and Automation,

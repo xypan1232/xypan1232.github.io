@@ -22,8 +22,10 @@ pubs:
     url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2931-8
 ---
 
-# Publications
 
+
+# Publications
+<a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br>
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).

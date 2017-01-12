@@ -2,7 +2,7 @@
 layout: page
 permalink: /experience/index.html
 title: Experience
----
+
 
 # Work Experience
 
@@ -21,3 +21,4 @@ title: Experience
 09/2004 - 06/2008   BSc in Electrical Engineering and Automation,
                     University of Shanghai for Science and Technology, Shanghai, P. R. China <br>
 
+---

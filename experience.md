@@ -7,9 +7,9 @@ title: Experience
 ## Work Experience
 
 05/2010 - 11/2010   Intern in ITFLEX department, Intel Corporation, China <br>
-	Develop computer vision software to control remote device using C/C++. <br>
+------Develop computer vision software to control remote device using C/C++. <br>
 04/2011 - 09/2013   Software Engineer in China System Technology Lab, IBM Corporation, China <br>
-	Develop administrative software to manage IBM storage devices using C/C++, python and Django framework.
+------Develop administrative software to manage IBM storage devices using C/C++, python and Django framework.
 
 
 ## Academic Experience

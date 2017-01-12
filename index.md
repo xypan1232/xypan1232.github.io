@@ -10,7 +10,7 @@ software engineer in IBM Corporation, Shanghai for two and half years.
 In 2013, I started my PhD at Copenhagen University in Bioinformatics, which I completed in 2017.  
 From December 1st, 2016, I worked as a postdoc in Department of Medical informatics in Erasmus MC.
 
-I am interested in machine learning applicaiton in computational biology. Now I am working on eletronic health record 
-using deep learning. 
+I am interested in Bioinformatics, Machine Learning, Non-coding RNA, Text Mining, Deep Learning, RNA-seq.
+Now I am working on eletronic health record using deep learning. 
 
 

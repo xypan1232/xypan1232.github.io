@@ -3,16 +3,14 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Daniel Haas, Jason Ansel, Lydia Gu, Adam Marcus"
-    title: "Argonaut: Macrotask Crowdsourcing for Complex Data Processing"
-    keywords: "Locu"
-    month: "September"
-    year: "2015"
-    address: "Kohala Coast, Hawaii"
-    booktitle: "International Conference on Very Large Data Bases"
-    url: 2015vldb-argonaut.pdf
-    bibtex: 2015vldb-argonaut.bib
-
+  - author: "Xiaoyong Pan, Hong-Bin Shen"
+    title: "RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach"
+    keywords: "ideep"
+    month: "November"
+    year: "2016"
+    address: "Copenhagen, Denmark"
+    booktitle: "biorxiv"
+    url: http://biorxiv.org/content/early/2016/11/03/085191
 
 ---
 

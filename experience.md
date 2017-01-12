@@ -4,7 +4,7 @@ permalink: /experience/index.html
 title: Experience
 ---
 
-# Work Experience
+## Work Experience
 
 05/2010 - 11/2010   Intern in ITFLEX department, Intel Corporation, China 
 	Develop computer vision software to control remote device using C/C++. 
@@ -12,7 +12,7 @@ title: Experience
 	Develop administrative software to manage IBM storage devices using C/C++, python and Django framework.
 
 
-# Academic Experience
+## Academic Experience
 12/2016- Now        Postdoc in Department of medical informatics at Erasmus MC, Rotterdam, Nertherlands. 
 09/2013-12/2016     Ph.D. Candidate in Bioinformatics,
                     University of Copenhagen, Copenhagen, Denmark 

@@ -20,4 +20,3 @@ title: Experience
                     Shanghai Jiao Tong University, Shanghai, P. R. China.  
 09/2004 - 06/2008   BSc in Electrical Engineering and Automation,
                     University of Shanghai for Science and Technology, Shanghai, P. R. China
-

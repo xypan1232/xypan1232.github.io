@@ -12,10 +12,20 @@ pubs:
     booktitle: "biorxiv"
     url: http://biorxiv.org/content/early/2016/11/03/085191
 
+  - author: "Xiaoyong Pan, Yong-Xian Fan, Junchi Yan, Hong-Bin Shen"
+    title: "IPMiner: hidden ncRNA-protein interaction sequential pattern mining with stacked autoencoder for accurate computational prediction"
+    keywords: "IPMiner"
+    month: "August"
+    year: "2016"
+    address: "Copenhagen, Denmark"
+    journal: "BMC Genomics"
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2931-8
 ---
 
-# Publications
 
+
+# Publications
+See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 {% for pub in page.pubs %}
 {% unless pub.hidden %}
   - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
@@ -33,5 +43,6 @@ pubs:
 {% endunless %}
 {% endfor %}
 
-
+#Professional Activities
+Reviewer for Computational biology and chemistry, Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences.
 

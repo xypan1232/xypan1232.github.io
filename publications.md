@@ -9,8 +9,8 @@ pubs:
     month: "November"
     year: "2016"
     address: "Copenhagen, Denmark"
-    booktitle: "biorxiv"
-    url: http://biorxiv.org/content/early/2016/11/03/085191
+    booktitle: "BMC Bioinformatics"
+    url: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1561-8
 
   - author: "Xiaoyong Pan, Yong-Xian Fan, Junchi Yan, Hong-Bin Shen"
     title: "IPMiner: hidden ncRNA-protein interaction sequential pattern mining with stacked autoencoder for accurate computational prediction"

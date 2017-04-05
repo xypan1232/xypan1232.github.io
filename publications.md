@@ -11,7 +11,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 (* Correspondence author) <br>
 <ul>
   <li>
-    <p><b>Xiaoyong Pan</b>*, Hong-Bin Shen*. RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach. BMC bioinformatics, 2017, 18(1):136</p>
+    <p><b>Xiaoyong Pan*</b>, Hong-Bin Shen*. RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach. BMC bioinformatics, 2017, 18(1):136</p>
   </li>
   <li>
     <p>Alexander Junge, Jan C. Refsgaard, Christian Garde, <b>Xiaoyong Pan</b>, Alberto Santos, Ferhat Alkan, Christian Anthon, Christian von Mering, Christopher T. Workman, Lars Juhl Jensen, and Jan Gorodkin. 
@@ -24,13 +24,13 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
     <p><b>Xiaoyong Pan</b>, Hong-Bin Shen. OUGENE: a disease associated over-expressed and under-expressed gene database. Science Bulletin, 2016, 61(10):752-754.</p>
   </li> 
   <li>
-    <p><b>Xiaoyong Pan</b>*, Kai Xiong. PredcircRNA: computational classification of circular RNA from other long non-coding RNA using hybrid features. Molecular BioSystems, 2015, 11(8): 2219-2226.</p>
+    <p><b>Xiaoyong Pan*</b>, Kai Xiong. PredcircRNA: computational classification of circular RNA from other long non-coding RNA using hybrid features. Molecular BioSystems, 2015, 11(8): 2219-2226.</p>
   </li>
   <li>
     <p>Aashiq H Mirza, Claus HB Berthelsen, Stefan E Seemann, <b>Xiaoyong Pan</b>, Klaus S Frederiksen, Mogens Vilien, Jan Gorodkin, Flemming Pociot. Transcriptomic landscape of lncRNAs in inflammatory bowel disease. Genome medicine, 2015, Genome medicine, 7(1):39.</p>
   </li> 
   <li>
-    <p><b>Xiaoyong Pan</b>*, Lin Zhu, Yong-Xian Fan, Junchi Yan. Predicting protein–RNA interaction amino acids using random forest based on submodularity subset selection. Computational biology and chemistry, 2014, 53,:324-330.</p>
+    <p><b>Xiaoyong Pan*</b>, Lin Zhu, Yong-Xian Fan, Junchi Yan. Predicting protein–RNA interaction amino acids using random forest based on submodularity subset selection. Computational biology and chemistry, 2014, 53,:324-330.</p>
   </li>   
   <li>
     <p><b>Xiao-Yong Pan</b>, Ye Tian, Yan Huang, Hong-Bin Shen. Towards better accuracy for missing value estimation of epistatic miniarray profiling data by a novel ensemble approach. Genomics, 2011, 97(5): 257-264.</p>

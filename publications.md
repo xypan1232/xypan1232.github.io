@@ -6,9 +6,9 @@ title: Publications
 
 
 
-# Publications (* Correspondence author)
+# Publications 
 See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
-
+(* Correspondence author) <br>
 <ul>
   <li>
     <p>Xiaoyong Pan*, Hong-Bin Shen*. RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach. BMC bioinformatics, 2017, 18(1):136</p>

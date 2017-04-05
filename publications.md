@@ -3,15 +3,24 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 pubs:
-  - author: "Xiaoyong Pan, Hong-Bin Shen"
+  - author: "Xiaoyong Pan*, Hong-Bin Shen*"
     title: "RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach"
     keywords: "ideep"
     month: "November"
-    year: "2016"
+    year: "2017"
     address: "Copenhagen, Denmark"
     booktitle: "BMC Bioinformatics"
     url: http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1561-8
-
+	
+  - author: "Alexander Junge, Jan C. Refsgaard, Christian Garde, Xiaoyong Pan, Alberto Santos, Ferhat Alkan, Christian Anthon, Christian von Mering, Christopher T. Workman, Lars Juhl Jensen, and Jan Gorodkin"
+    title: "RAIN: RNA-protein Association and Interaction Networks."
+    keywords: "RAIN"
+    month: "Jan"
+    year: "2017"
+    address: "Copenhagen, Denmark"
+    booktitle: "Database (Oxford)"
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5225963/
+	
   - author: "Xiaoyong Pan, Yong-Xian Fan, Junchi Yan, Hong-Bin Shen"
     title: "IPMiner: hidden ncRNA-protein interaction sequential pattern mining with stacked autoencoder for accurate computational prediction"
     keywords: "IPMiner"
@@ -20,6 +29,24 @@ pubs:
     address: "Copenhagen, Denmark"
     journal: "BMC Genomics"
     url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2931-8
+
+  - author: "Xiaoyong Pan, Hong-Bin Shen"	
+    title: "OUGENE: a disease associated over-expressed and under-expressed gene database"
+    keywords: "OUGENE"
+    month: "May"
+    year: "2016"
+    address: "Copenhagen, Denmark"
+    journal: "Science Bulletin"
+    url: http://www.sciencedirect.com/science/article/pii/S2095927316301189
+	
+- author: "Xiaoyong Pan*, Kai Xiong"	
+    title: "PredcircRNA: computational classification of circular RNA from other long non-coding RNA using hybrid features"
+    keywords: "PredcircRNA"
+    month: "May"
+    year: "2015"
+    address: "Copenhagen, Denmark"
+    journal: "Molecular BioSystems"
+    url: http://pubs.rsc.org/-/content/articlelanding/2015/mb/c5mb00214a#!divAbstract
 ---
 
 

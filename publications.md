@@ -49,7 +49,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   </li>    
 
 </ul>
-
+<br><br>
 
 #Professional Activities
 Reviewer for Computational biology and chemistry, Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences.

@@ -6,7 +6,7 @@ title: Publications
 
 
 
-# Publications 
+## Publications 
 See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
@@ -51,6 +51,6 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 </ul>
 <br><br>
 
-#Professional Activities
+##Professional Activities
 Reviewer for Computational biology and chemistry, Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences.
 

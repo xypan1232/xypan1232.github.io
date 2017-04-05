@@ -8,10 +8,6 @@ title: Publications
 
 # Publications
 See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
-  <article itemscope itemtype="http://schema.org/CreativeWork">
-  
-    <div class="article-wrap" itemprop="text">
-      <h2 id="selected-papers">Selected Papers</h2>
 
 <ul>
   <li>
@@ -23,9 +19,6 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   </li>
 </ul>
 
-
-    </div><!-- /.article-wrap -->
-  </article>
 
 #Professional Activities
 Reviewer for Computational biology and chemistry, Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences.

@@ -16,7 +16,7 @@ layout: nil
       <loc>https://xypan1232.github.io/experience</loc>
     </url>
     <url>
-      <loc>https://xypan1232.github.io/hobbies/</loc>
+      <loc>https://xypan1232.github.io/software/</loc>
     </url>
     {% comment %}
     {% for post in site.posts %}

@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /software/index.html
+title: Software
 ---
 
-# Hobbies
+# Software
 
 
 I enjoyed skiing, badminton, hiking,

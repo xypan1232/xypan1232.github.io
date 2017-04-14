@@ -11,6 +11,9 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 (^ Correspondence author) <br>
 <ul>
   <li>
+    <p><b>Xiaoyong Pan</b>, Hong-Bin Shen. A novel deep learning-based method for predicting RNA-protein interactions. Atlas of Science, 2017</p>
+  </li>
+  <li>
     <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach. BMC bioinformatics, 2017, 18(1):136</p>
   </li>
   <li>

@@ -10,11 +10,14 @@ title: Publications
 See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+<li>
+    <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href=http://biorxiv.org/content/early/2017/06/07/146175>Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. biorxiv 146175, 2017</p>
+  </li>
   <li>
     <p><b>Xiaoyong Pan</b>, Hong-Bin Shen. A novel deep learning-based method for predicting RNA-protein interactions. Atlas of Science, 2017</p>
   </li>
   <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach. BMC bioinformatics, 2017, 18(1):136</p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^.  <a href=https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1561-8>RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach </a>. BMC bioinformatics, 2017, 18(1):136</p>
   </li>
   <li>
     <p>Alexander Junge, Jan C. Refsgaard, Christian Garde, <b>Xiaoyong Pan</b>, Alberto Santos, Ferhat Alkan, Christian Anthon, Christian von Mering, Christopher T. Workman, Lars Juhl Jensen, and Jan Gorodkin. 

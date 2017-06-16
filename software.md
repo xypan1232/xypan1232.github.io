@@ -9,8 +9,9 @@ title: Software
   <li>
 1. <a href=https://github.com/xypan1232/IPMiner>IPMiner: prediciton of RNA-protein interaction using stacked autoencoder </a></li>
 <li>2. <a href=https://github.com/xypan1232/iDeep>iDeep: integrated prediciton of RNA-protein binding sites using hybrid deep learning </a></li>
-<li>3. <a href=https://github.com/xypan1232/PredcircRNA>PredcircRNA: classifying circular RNAs from other long non-coding RNAs </a></li>
-<li>4. <a href=http://www.csbio.sjtu.edu.cn/bioinf/EMDI/>EMDI: An ensemble algorithm for missing value imputation  </a></li>
+<li>3. <a href=https://github.com/xypan1232/iDeepS>iDeepS: Inferring sequence-structure motifs of RNA-protein using deep learning </a></li>
+<li>4. <a href=https://github.com/xypan1232/PredcircRNA>PredcircRNA: classifying circular RNAs from other long non-coding RNAs </a></li>
+<li>5. <a href=http://www.csbio.sjtu.edu.cn/bioinf/EMDI/>EMDI: An ensemble algorithm for missing value imputation  </a></li>
 </ul>
 
 ## Webserver

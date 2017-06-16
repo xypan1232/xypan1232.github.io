@@ -57,7 +57,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 </ul>
 <br><br>
 
-##Professional Activities
+# Professional Activities
 Reviewer for Computational biology and chemistry, Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences.<br>
 
 IEEE Access Leading Guest editor (2017-) <br>

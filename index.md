@@ -10,7 +10,7 @@ software engineer in IBM Corporation for two and half years. I was supported by 
 I received outstanding master thesis award from Shanghai Education Commission in 2013. I am a leading Guest Editor for IEEE Access.
 
 I am interested in Bioinformatics, Machine Learning, Non-coding RNA, Text Mining, Deep Learning, RNA-seq.
-Now I am working on eletronic health record data using deep learning. 
+Now I am working on eletronic health record data using deep learning, and belongs to Patient-Level Prediction working group in <a href="https://ohdsi.org/">OHDSI </a>. 
 
 
 

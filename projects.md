@@ -6,6 +6,10 @@ title: Projects
 
 # Research Projects
 
+## Patient-Level Prediction working group in OHDSI
+I am working on eletronic health record data in Common Data Model format using deep learning, belonging to <a href="https://ohdsi.org/">OHDSI </a>. More details please see <a href="https://github.com/OHDSI/PatientLevelPrediction">https://github.com/OHDSI/PatientLevelPrediction </a>
+<br>
+
 ## [iDeep]
 [iDeep] is a deep learning based framework to fuse heterogeneous data for predicting RNA-protein interaction sites. The deep learning framework can not only learn the hidden feature patterns from individual source of data, but also extracted the shared representation across them. In addition, the convolutional neural network in iDeep can automatically identify binding motifs. It is available at <a href="https://github.com/xypan1232/iDeep">https://github.com/xypan1232/iDeep</a>.
 <br>
@@ -13,6 +17,5 @@ title: Projects
 [WebCircRNA] is a machine learning based method to predict if coding and noncoding RNAs have circRNA isoforms and whether circRNAs are expressed in stem cells. The predictions are made by random forest models using sequence-derived features as input. WebCircRNA is available at <a href="http://rth.dk/resources/webcircrna">http://rth.dk/resources/webcircrna</a>.
 <br>
 
-## Patient-Level Prediction working group in OHDSI
-I am working on eletronic health record data in Common Data Model format using deep learning, belonging to <a href="https://ohdsi.org/">OHDSI </a>. More details please see https://github.com/OHDSI/PatientLevelPrediction
+
 

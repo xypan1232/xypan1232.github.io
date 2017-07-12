@@ -13,5 +13,6 @@ title: Projects
 [WebCircRNA] is a machine learning based method to predict if coding and noncoding RNAs have circRNA isoforms and whether circRNAs are expressed in stem cells. The predictions are made by random forest models using sequence-derived features as input. WebCircRNA is available at <a href="http://rth.dk/resources/webcircrna">http://rth.dk/resources/webcircrna</a>.
 <br>
 
-
+## Patient-Level Prediction working group in OHDSI
+I am working on eletronic health record data in Common Data Model format using deep learning, belonging to <a href="https://ohdsi.org/">OHDSI </a>. More details please see https://github.com/OHDSI/PatientLevelPrediction
 

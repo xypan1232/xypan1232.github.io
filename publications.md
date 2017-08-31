@@ -54,6 +54,13 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 </ul>
 <br><br>
 
+## Poster and Technical Communications
+<ul>
+<li><p><b>Xiaoyong Pan</b>, Hong-Bin Shen. <a href="https://atlasofscience.org/a-novel-deep-learning-based-method-for-predicting-rna-protein-interactions/"> A novel deep learning-based method for predicting RNA-protein interactions </a>. Atlas of Science, 2017.</p>
+</li>
+</ul>
+<br><br>
+
 # Professional Activities
 Reviewer for Computational biology and chemistry, Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences, IEEE Access<br>
 

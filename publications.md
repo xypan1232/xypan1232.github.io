@@ -14,6 +14,9 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
     <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href="http://biorxiv.org/content/early/2017/06/07/146175">Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. biorxiv 146175, 2017. [<a href="https://github.com/xypan1232/iDeepS">Code</a>]</p>
   </li>
   <li>
+    <p>Lei Chen, Yu-Hang Zhang, Guohua Huang, <b>Xiaoyong Pan</b>, ShaoPeng Wang, Tao Huang, Yu-Dong Cai. <a href="http://biorxiv.org/content/early/2017/06/07/146175">Discriminating cirRNAs from other lncRNAs using a hierarchical extreme learning machine (H-ELM) algorithm with feature selection</a>. Molecular Genetics and Genomics. In press.</p>
+  </li>
+  <li>
     <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^.  <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1561-8">RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach </a>. BMC bioinformatics, 2017, 18(1):136. [<a href="https://github.com/xypan1232/iDeep">Code</a>]</p>
   </li>
   <li>

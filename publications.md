@@ -72,10 +72,10 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 </ul>
 <br><br>
 
-# Grants
+## Grants
 Be involved in the National Natural Science Foundation of China (No. 61462018，61762026)
 
-# Professional Activities
+## Professional Activities
 Reviewer for Computational biology and chemistry, Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences, IEEE Access, RSC Advances, Oncotarget.<br>
 
 IEEE Access Leading Guest editor (2017-) <br>

@@ -59,11 +59,11 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 
 ## Poster and Technical Communications
 <ul>
-<li><p><b>Xiaoyong Pan</b>, Peter Rijnbeek. <a href="https://atlasofscience.org/a-novel-deep-learning-based-method-for-predicting-rna-protein-interactions/"> Hybrid deep learning for predicting hypertensive disorder onset using temporal and non-temporal data </a>. OHDSI Symposium, 2017.</p>
+<li><p><b>Xiaoyong Pan</b>, Peter Rijnbeek. <a href="https://atlasofscience.org/a-novel-deep-learning-based-method-for-predicting-rna-protein-interactions/"> Hybrid deep learning for predicting hypertensive disorder onset using temporal and non-temporal data </a>. OHDSI Symposium, 2017. [Poster]</p>
 </li>
 </ul>
 <ul>
-<li><p>Peter Rijnbeek, <b>Xiaoyong Pan</b>, Jenna M. Reps. <a href="https://atlasofscience.org/a-novel-deep-learning-based-method-for-predicting-rna-protein-interactions/">Do we really need ‘Big Data” for patient-level predictive modelling? </a>. OHDSI Symposium, 2017.</p>
+<li><p>Peter Rijnbeek, <b>Xiaoyong Pan</b>, Jenna M. Reps. <a href="https://atlasofscience.org/a-novel-deep-learning-based-method-for-predicting-rna-protein-interactions/">Do we really need ‘Big Data” for patient-level predictive modelling? </a>. OHDSI Symposium, 2017.[Poster]</p>
 </li>
 </ul>
 <ul>

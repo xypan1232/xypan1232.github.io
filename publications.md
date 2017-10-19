@@ -63,7 +63,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 </li>
 </ul>
 <ul>
-<li><p>Peter Rijnbeek, <b>Xiaoyong Pan</b>, Jenna M. Reps. <a href="http://www.ohdsi.org/web/wiki/lib/exe/fetch.php?media=symposium_2017:ohdsi_symposium_2017_learningcurves.pdf">Do we really need ‘Big Data” for patient-level predictive modelling? </a>. OHDSI Symposium, 2017.[Poster]. Best contribution award to OHDSI 2017</p>
+<li><p>Peter Rijnbeek, <b>Xiaoyong Pan</b>, Jenna M. Reps. <a href="http://www.ohdsi.org/web/wiki/lib/exe/fetch.php?media=symposium_2017:ohdsi_symposium_2017_learningcurves.pdf">Do we really need ‘Big Data” for patient-level predictive modelling? </a>. OHDSI Symposium, 2017.[Poster]. <b>Best contribution award to OHDSI 2017</b></p>
 </li>
 </ul>
 <ul>

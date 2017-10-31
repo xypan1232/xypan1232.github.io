@@ -10,12 +10,13 @@ title: Publications
 See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
-<li>
-    <p><b>Xiaoyong Pan^</b>, Junchi Yan. <a href="https://mlcb.github.io/">Attention based convolutional neural network for predicting RNA-protein binding sites</a>. Accepted as Poster in NIPS MLCB 2017. [<a href="https://github.com/xypan1232/iDeepA">Code</a>]</p>
-  </li>	
+
 <li>
     <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href="http://biorxiv.org/content/early/2017/06/07/146175">Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. biorxiv 146175, 2017. [<a href="https://github.com/xypan1232/iDeepS">Code</a>]</p>
   </li>
+  <li>
+    <p><b>Xiaoyong Pan^</b>, Junchi Yan. <a href="https://mlcb.github.io/">Attention based convolutional neural network for predicting RNA-protein binding sites</a>. Accepted as Poster in NIPS MLCB 2017. [<a href="https://github.com/xypan1232/iDeepA">Code</a>]</p>
+  </li>	
   <li>
     <p>Lei Chen, Yu-Hang Zhang, Guohua Huang, <b>Xiaoyong Pan</b>, ShaoPeng Wang, Tao Huang, Yu-Dong Cai. <a href="https://www.ncbi.nlm.nih.gov/labs/articles/28913654">Discriminating circRNAs from other lncRNAs using a hierarchical extreme learning machine (H-ELM) algorithm with feature selection</a>. Molecular Genetics and Genomics. In press.</p>
   </li>

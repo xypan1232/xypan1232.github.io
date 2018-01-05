@@ -85,7 +85,7 @@ Be involved in the National Natural Science Foundation of China (No. 61462018，
 IEEE Access Leading Guest editor (2017-) <br>
 
 ## Organizational activities
-<ul><li>Leading guess Editor Special issue <a href="http://ieeeaccess.ieee.org/special-sections/sequential-data-modeling-emerging-applications/">Sequential Data Modeling and Its Emerging Applications </a> in IEEE Access. </li>
+<ul><li>Leading guest Editor Special issue <a href="http://ieeeaccess.ieee.org/special-sections/sequential-data-modeling-emerging-applications/">Sequential Data Modeling and Its Emerging Applications </a> in IEEE Access. </li>
 	
 </ul>
 

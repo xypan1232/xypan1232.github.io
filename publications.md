@@ -18,7 +18,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
     <p><b>Xiaoyong Pan^</b>, Junchi Yan. <a href="https://mlcb.github.io/">Attention based convolutional neural network for predicting RNA-protein binding sites</a>. NIPS Workshop on Machine Learning in Computational Biology, 2017. [<a href="https://github.com/xypan1232/iDeepA">Code</a>]</p>
   </li>	
   <li>
-    <p>Lei Chen, Yu-Hang Zhang, Guohua Huang, <b>Xiaoyong Pan</b>, ShaoPeng Wang, Tao Huang, Yu-Dong Cai. <a href="https://www.ncbi.nlm.nih.gov/labs/articles/28913654">Discriminating circRNAs from other lncRNAs using a hierarchical extreme learning machine (H-ELM) algorithm with feature selection</a>. Molecular Genetics and Genomics. In press.</p>
+    <p>Lei Chen, Yu-Hang Zhang, Guohua Huang, <b>Xiaoyong Pan</b>, ShaoPeng Wang, Tao Huang, Yu-Dong Cai. <a href="https://www.ncbi.nlm.nih.gov/labs/articles/28913654">Discriminating circRNAs from other lncRNAs using a hierarchical extreme learning machine (H-ELM) algorithm with feature selection</a>. Molecular Genetics and Genomics. 2017 Sep 14. doi: 10.1007/s00438-017-1372-7.</p>
   </li>
   <li>
     <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^.  <a href="https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1561-8">RNA-protein binding motifs mining with a new hybrid deep learning based cross-domain knowledge integration approach </a>. BMC bioinformatics, 2017, 18(1):136. [<a href="https://github.com/xypan1232/iDeep">Code</a>]</p>
@@ -80,7 +80,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 Be involved in the National Natural Science Foundation of China (No. 61462018，61762026)
 
 ## Professional Activities
-<b>Reviewer </b> for BBA - Molecular Basis of Disease, Computational biology and chemistry, IEEE Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences, IEEE Access, RSC Advances, Oncotarget, BioMed Research International.<br>
+<b>Reviewer </b> for BBA - Molecular Basis of Disease, Computational biology and chemistry, IEEE Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences, IEEE Access, RSC Advances, Oncotarget, BioMed Research International, Molecules.<br>
 
 IEEE Access Leading Guest editor (2017-) <br>
 

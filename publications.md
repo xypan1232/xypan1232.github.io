@@ -14,6 +14,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 <li>
     <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href="http://biorxiv.org/content/early/2017/06/07/146175">Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. biorxiv 146175, 2017. [<a href="https://github.com/xypan1232/iDeepS">Code</a>]</p>
   </li>
+
   <li>
     <p><b>Xiaoyong Pan^</b>, Junchi Yan. <a href="https://mlcb.github.io/">Attention based convolutional neural network for predicting RNA-protein binding sites</a>. NIPS Workshop on Machine Learning in Computational Biology, 2017. [<a href="https://github.com/xypan1232/iDeepA">Code</a>]</p>
   </li>	

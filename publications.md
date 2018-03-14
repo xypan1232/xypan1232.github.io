@@ -17,6 +17,9 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   <li>
     <p>Zhen Cao*, <b>Xiaoyong Pan*</b>, Yang Yang*,  Yan Huang, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty085/4860366?redirectedFrom=fulltext">The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier</a>. Bioinformatics, in press (shared first author). [<a href="www.csbio.sjtu.edu.cn/bioinf/lncLocator">Webserver</a>]</p>
   </li>
+  <li>
+  <p> Yong-Xian Fan, <b>Xiaoyong Pan</b>, Yang Zhang^ and Hong-Bin Shen^. LabCaS for ranking potential calpain substrate cleavage sites from amino acid sequence. Methods in Molecular Biology, In press [<a href="http://www.csbio.sjtu.edu.cn/bioinf/LabCaS">Webserver</a>]</p> 
+  </li>
   <li>
     <p><b>Xiaoyong Pan^</b>, Junchi Yan. <a href="https://mlcb.github.io/">Attention based convolutional neural network for predicting RNA-protein binding sites</a>. NIPS Workshop on Machine Learning in Computational Biology, 2017. [<a href="https://github.com/xypan1232/iDeepA">Code</a>]</p>
   </li>	

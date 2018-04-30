@@ -12,11 +12,18 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 <ul>
 
 <li>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="http://biorxiv.org/content/early/2017/06/07/146175">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. In press. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>
+  </li>
+
+<li>
     <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href="http://biorxiv.org/content/early/2017/06/07/146175">Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. biorxiv 146175, 2017. [<a href="https://github.com/xypan1232/iDeepS">Code</a>]</p>
   </li>
   <li>
     <p>Zhen Cao*, <b>Xiaoyong Pan*</b>, Yang Yang*, Yan Huang, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty085/4860366?redirectedFrom=fulltext">The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier</a>. Bioinformatics, in press (shared first author). [<a href="www.csbio.sjtu.edu.cn/bioinf/lncLocator">Webserver</a>]</p>
   </li>
+  <li>
+    <p>Lei Chen*, <b>Xiaoyong Pan*</b>, XiaoHua Hu*, Yu-Hang Zhang, ShaoPeng Wang, Tao Huang, Yu-Dong Cai. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31554">Gene expression differences among different MSI statuses in colorectal cancer</a>. International Journal of Cancer. In press (shared first author).</p>
+  </li>
   <li>
   <p> Yong-Xian Fan, <b>Xiaoyong Pan</b>, Yang Zhang^ and Hong-Bin Shen^. LabCaS for ranking potential calpain substrate cleavage sites from amino acid sequence. Methods in Molecular Biology, In press [<a href="http://www.csbio.sjtu.edu.cn/bioinf/LabCaS">Webserver</a>]</p> 
   </li>

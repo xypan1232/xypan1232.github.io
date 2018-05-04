@@ -12,7 +12,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 <ul>
 
 <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="http://biorxiv.org/content/early/2017/06/07/146175">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. In press. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty364/4990826">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. In press. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>
   </li>
 
 <li>

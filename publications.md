@@ -99,6 +99,7 @@ IEEE Access Leading Guest editor (2017-) <br>
 
 ## Organizational activities
 <ul><li>Leading guest Editor Special issue <a href="http://ieeeaccess.ieee.org/special-sections/sequential-data-modeling-emerging-applications/">Sequential Data Modeling and Its Emerging Applications </a> in IEEE Access. </li>
+<ul><li> Organizers for <a href="http://vision.ia.ac.cn/CCPRWorkshop2018/index.html">Correspondence Problem in Computer Vision and Pattern Recognition </a> in ICPR 2018. </li>
 	
 </ul>
 

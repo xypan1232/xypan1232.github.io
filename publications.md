@@ -93,7 +93,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 Be involved in the National Natural Science Foundation of China (No. 61462018，61762026)
 
 ## Professional Activities
-<b>Reviewer </b> for BBA - Molecular Basis of Disease, Computational biology and chemistry, IEEE Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences, IEEE Access, RSC Advances, Oncotarget, BioMed Research International, Molecules.<br>
+<b>Reviewer </b> for Bioinformatics, Journal of Proteome Research, BBA - Molecular Basis of Disease, Computational biology and chemistry, IEEE Journal of Biomedical and Health Informatics, Interdisciplinary Sciences: Computational Life Sciences, IEEE Access, RSC Advances, Oncotarget, BioMed Research International, Molecules.<br>
 
 IEEE Access Leading Guest editor (2017-) <br>
 

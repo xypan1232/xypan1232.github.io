@@ -16,7 +16,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   </li>
 
 <li>
-    <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href="http://biorxiv.org/content/early/2017/06/07/146175">Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. BMC Genomics, 2018. In press.[<a href="https://github.com/xypan1232/iDeepS">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4889-1">Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. BMC Genomics, 2018. In press.[<a href="https://github.com/xypan1232/iDeepS">Code</a>]</p>
   </li>
   <li>
     <p>Zhen Cao*, <b>Xiaoyong Pan*</b>, Yang Yang*, Yan Huang, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty085/4860366?redirectedFrom=fulltext">The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier</a>. Bioinformatics, in press (shared first author). [<a href="www.csbio.sjtu.edu.cn/bioinf/lncLocator">Webserver</a>]</p>

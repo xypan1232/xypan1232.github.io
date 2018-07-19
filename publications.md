@@ -11,6 +11,9 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 (^ Correspondence author) <br>
 <ul>
 
+	<li>
+    <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates</a>. Under revision. </p>
+  </li>
 <li>
     <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles</a>. Under revision. </p>
   </li>

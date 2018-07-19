@@ -12,7 +12,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 <ul>
 
 <li>
-    <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles</a>. Bioinformatics. Under revision. </p>
+    <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles</a>. Under revision. </p>
   </li>
 
 <li>

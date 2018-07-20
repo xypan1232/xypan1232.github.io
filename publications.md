@@ -20,7 +20,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   </li>
 
 <li>
-    Zhang Kaiming, Xiao Yiqun, <p><b>Xiaoyong Pan</b> and Yang Yang. Prediction of RNA-Protein Interactions with Distributed Feature Representations and a Hybrid Deep model. ICIMCS 2018. </p>
+   <p> Zhang Kaiming, Xiao Yiqun, <b>Xiaoyong Pan</b> and Yang Yang. Prediction of RNA-Protein Interactions with Distributed Feature Representations and a Hybrid Deep model. ICIMCS 2018. </p>
   </li>
   
 <li>

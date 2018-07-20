@@ -20,6 +20,10 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   </li>
 
 <li>
+    Zhang Kaiming, Xiao Yiqun, <p><b>Xiaoyong Pan</b> and Yang Yang. Prediction of RNA-Protein Interactions with Distributed Feature Representations and a Hybrid Deep model. ICIMCS 2018. </p>
+  </li>
+  
+<li>
     <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty364/4990826">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. In press. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>
   </li>
 

@@ -10,15 +10,15 @@ title: Publications
 See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
-
-<li>
-    <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates. Under revision. </p>
-  </li>
   
 <li>
     <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles. Under revision. </p>
   </li>
 
+<li>
+    <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates. Plos One. In press. [<a href="https://rth.dk/resources/mirnasponge/">Webserver</a>] </p>
+  </li>
+  
 <li>
    <p> Zhang Kaiming, Xiao Yiqun, <b>Xiaoyong Pan</b> and Yang Yang. Prediction of RNA-Protein Interactions with Distributed Feature Representations and a Hybrid Deep model. ICIMCS 2018. </p>
   </li>
@@ -33,6 +33,11 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   <li>
     <p>Zhen Cao*, <b>Xiaoyong Pan*</b>, Yang Yang*, Yan Huang, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty085/4860366?redirectedFrom=fulltext">The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier</a>. Bioinformatics, in press (shared first author). [<a href="www.csbio.sjtu.edu.cn/bioinf/lncLocator">Webserver</a>]</p>
   </li>
+  
+  <li>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://www.sciencedirect.com/science/article/pii/S0925231218304685">Learning distributed representations of RNA sequences and its application for predicting RNA-protein binding sites with a convolutional neural network</a>. Neurocomputing. 305: 51-58. [<a href="https://github.com/xypan1232/iDeepV">Code</a>]</p>
+  </li>
+  
   <li>
     <p>Lei Chen*, <b>Xiaoyong Pan*</b>, XiaoHua Hu*, Yu-Hang Zhang, ShaoPeng Wang, Tao Huang, Yu-Dong Cai. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31554">Gene expression differences among different MSI statuses in colorectal cancer</a>. International Journal of Cancer. In press (shared first author).</p>
   </li>

@@ -18,10 +18,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 <li>
     <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates. Plos One. In press. [<a href="https://rth.dk/resources/mirnasponge/">Webserver</a>] </p>
   </li>
-  
-<li>
-   <p> Zhang Kaiming, Xiao Yiqun, <b>Xiaoyong Pan</b> and Yang Yang. Prediction of RNA-Protein Interactions with Distributed Feature Representations and a Hybrid Deep model. ICIMCS 2018. </p>
-  </li>
+
   
 <li>
     <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty364/4990826">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. In press. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>

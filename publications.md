@@ -10,12 +10,13 @@ title: Publications
 See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
- <li>
-    <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. In press. [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
-  </li> 
 <li>
     <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles. Under revision. </p>
   </li>
+	
+ <li>
+    <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. In press. [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
+  </li> 
 
 <li>
     <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates. Plos One. In press. [<a href="https://rth.dk/resources/mirnasponge/">Webserver</a>] </p>

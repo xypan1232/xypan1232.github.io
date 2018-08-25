@@ -19,7 +19,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   </li> 
 
 <li>
-    <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates. Plos One. In press. [<a href="https://rth.dk/resources/mirnasponge/">Webserver</a>] </p>
+    <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. <a href="https://doi.org/10.1371/journal.pone.0202369">Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates</a>. Plos One. In press. [<a href="https://rth.dk/resources/mirnasponge/">Webserver</a>] </p>
   </li>
 
   

@@ -14,6 +14,10 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
     <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles. Under revision. </p>
   </li>
 	
+<li>
+    <p><b>Xiaoyong Pan</b>, XiaoHua Hu, Yu-Hang Zhang, Lei Chen, LiuCun Zhu, ShiBao Wan, Tao Huang, Yu-Dong Cai. Identification of the Copy Number Variant Biomarkers for Breast Cancer Subtypes. Molecular Genetics and Genomics. In press </p>
+  </li>	
+  
  <li>
     <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. In press. [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
   </li> 

@@ -15,7 +15,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
   </li>
 	
 <li>
-    <p><b>Xiaoyong Pan</b>, XiaoHua Hu, Yu-Hang Zhang, Lei Chen, LiuCun Zhu, ShiBao Wan, Tao Huang, Yu-Dong Cai. Identification of the Copy Number Variant Biomarkers for Breast Cancer Subtypes. Molecular Genetics and Genomics. In press </p>
+    <p><b>Xiaoyong Pan</b>, XiaoHua Hu, Yu-Hang Zhang, Lei Chen, LiuCun Zhu, ShiBao Wan, Tao Huang, Yu-Dong Cai. <a href="https://link.springer.com/article/10.1007/s00438-018-1488-4">Identification of the Copy Number Variant Biomarkers for Breast Cancer Subtypes</a>. Molecular Genetics and Genomics. In press </p>
   </li>	
   
  <li>

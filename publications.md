@@ -11,6 +11,11 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 (^ Correspondence author) <br>
 <ul>
 <li>
+    <p><b>Xiaoyong Pan</b>, Kai Xiong, Poul Hyttel, Kristine Freude, Lars Juhl Jensen, Jan Gorodkin. WebCircRNA: Classifying the circular RNA potential of coding and 
+noncoding RNA. Under revision. [<a href="https://rth.dk/resources/webcircrna">Webserver</a>]</p>
+  </li>
+	
+<li>
     <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles. Bioinformatics. In press. [<a href="https://github.com/xypan1232/DislncRF">Code</a>]</p>
   </li>
 	

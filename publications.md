@@ -16,35 +16,35 @@ noncoding RNA. Under revision. [<a href="https://rth.dk/resources/webcircrna">We
   </li>
 	
 <li>
-    <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles. Bioinformatics. In press. [<a href="https://github.com/xypan1232/DislncRF">Code</a>]</p>
+    <p><b>Xiaoyong Pan</b>, Lars Juhl Jensen, Jan Gorodkin. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty859/5116144?redirectedFrom=fulltext">Inferring disease-associated long non-coding RNAs using genome-wide tissue expression profiles</a>. Bioinformatics. In press. [<a href="https://github.com/xypan1232/DislncRF">Code</a>]</p>
   </li>
 	
 <li>
-    <p><b>Xiaoyong Pan</b>, XiaoHua Hu, Yu-Hang Zhang, Lei Chen, LiuCun Zhu, ShiBao Wan, Tao Huang, Yu-Dong Cai. <a href="https://link.springer.com/article/10.1007/s00438-018-1488-4">Identification of the Copy Number Variant Biomarkers for Breast Cancer Subtypes</a>. Molecular Genetics and Genomics. In press </p>
+    <p><b>Xiaoyong Pan</b>, XiaoHua Hu, Yu-Hang Zhang, Lei Chen, LiuCun Zhu, ShiBao Wan, Tao Huang, Yu-Dong Cai. <a href="https://link.springer.com/article/10.1007/s00438-018-1488-4">Identification of the Copy Number Variant Biomarkers for Breast Cancer Subtypes</a>. Molecular Genetics and Genomics. 2018, In press </p>
   </li>	
   
  <li>
-    <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. In press. [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. 2018, In press. [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
   </li> 
 
 <li>
-    <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. <a href="https://doi.org/10.1371/journal.pone.0202369">Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates</a>. Plos One. In press. [<a href="https://rth.dk/resources/mirnasponge/">Webserver</a>] </p>
+    <p><b>Xiaoyong Pan</b>, Anne Wenzel, Lars Juhl Jensen, Jan Gorodkin. <a href="https://doi.org/10.1371/journal.pone.0202369">Genome-Wide Identification of Clusters of Predicted MicroRNA Binding Sites as MicroRNA Sponge Candidates</a>. Plos One. 2018, 13(8): e0202369. [<a href="https://rth.dk/resources/mirnasponge/">Webserver</a>] </p>
   </li>
 
   
 <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty364/4990826">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. In press. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty364/4990826">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. 2018, In press. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>
   </li>
 
 <li>
-    <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4889-1">Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. BMC Genomics, 2018. In press.[<a href="https://github.com/xypan1232/iDeepS">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Peter Rijnbeek, Junchi Yan, Hong-Bin Shen^. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4889-1">Prediction of RNA-protein sequence and structure binding preferences using deep convolutional and recurrent neural networks</a>. BMC Genomics, 2018, 19:511.[<a href="https://github.com/xypan1232/iDeepS">Code</a>]</p>
   </li>
   <li>
-    <p>Zhen Cao*, <b>Xiaoyong Pan*</b>, Yang Yang*, Yan Huang, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty085/4860366?redirectedFrom=fulltext">The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier</a>. Bioinformatics, in press (shared first author). [<a href="www.csbio.sjtu.edu.cn/bioinf/lncLocator">Webserver</a>]</p>
+    <p>Zhen Cao*, <b>Xiaoyong Pan*</b>, Yang Yang*, Yan Huang, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty085/4860366?redirectedFrom=fulltext">The lncLocator: a subcellular localization predictor for long non-coding RNAs based on a stacked ensemble classifier</a>. Bioinformatics, 2018, 34(13):2185-2194 (shared first author). [<a href="www.csbio.sjtu.edu.cn/bioinf/lncLocator">Webserver</a>]</p>
   </li>
   
   <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://www.sciencedirect.com/science/article/pii/S0925231218304685">Learning distributed representations of RNA sequences and its application for predicting RNA-protein binding sites with a convolutional neural network</a>. Neurocomputing. 305: 51-58. [<a href="https://github.com/xypan1232/iDeepV">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://www.sciencedirect.com/science/article/pii/S0925231218304685">Learning distributed representations of RNA sequences and its application for predicting RNA-protein binding sites with a convolutional neural network</a>. Neurocomputing. 2018, 305: 51-58. [<a href="https://github.com/xypan1232/iDeepV">Code</a>]</p>
   </li>
   
   <li>

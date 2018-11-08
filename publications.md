@@ -11,7 +11,7 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 (^ Correspondence author) <br>
 <ul>
 <li>
-    <p><b>Xiaoyong Pan</b>, Kai Xiong, Poul Hyttel, Kristine Freude, Lars Juhl Jensen, Jan Gorodkin. <a href="https://www.mdpi.com/2073-4425/9/11/536">WebCircRNA: Classifying the circular RNA potential of coding and 
+    <p><b>Xiaoyong Pan</b>, Kai Xiong, Christian Anthon, Poul Hyttel, Kristine Freude, Lars Juhl Jensen, Jan Gorodkin. <a href="https://www.mdpi.com/2073-4425/9/11/536">WebCircRNA: Classifying the circular RNA potential of coding and 
 noncoding RNA </a>. Genes. 2018, 9(11), 536. [<a href="https://rth.dk/resources/webcircrna">Webserver</a>]</p>
   </li>
 	

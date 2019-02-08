@@ -20,11 +20,11 @@ noncoding RNA </a>. Genes. 2018, 9(11), 536. [<a href="https://rth.dk/resources/
   </li>
 	
 <li>
-    <p><b>Xiaoyong Pan</b>, XiaoHua Hu, Yu-Hang Zhang, Lei Chen, LiuCun Zhu, ShiBao Wan, Tao Huang, Yu-Dong Cai. <a href="https://link.springer.com/article/10.1007/s00438-018-1488-4">Identification of the Copy Number Variant Biomarkers for Breast Cancer Subtypes</a>. Molecular Genetics and Genomics. 2018, In press </p>
+    <p><b>Xiaoyong Pan</b>, XiaoHua Hu, Yu-Hang Zhang, Lei Chen, LiuCun Zhu, ShiBao Wan, Tao Huang, Yu-Dong Cai. <a href="https://link.springer.com/article/10.1007/s00438-018-1488-4">Identification of the Copy Number Variant Biomarkers for Breast Cancer Subtypes</a>. Molecular Genetics and Genomics. 2018, 294: 95–110 </p>
   </li>	
   
  <li>
-    <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. 2018, In press. [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. 2019, 62(1). [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
   </li> 
 
 <li>
@@ -33,7 +33,7 @@ noncoding RNA </a>. Genes. 2018, 9(11), 536. [<a href="https://rth.dk/resources/
 
   
 <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty364/4990826">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. 2018, In press. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty364/4990826">Predicting RNA-protein binding sites and motifs through combining local and global deep convolutional neural networks</a>. Bioinformatics. 2018, 34: 3427–3436. [<a href="https://github.com/xypan1232/iDeepE">Code</a>]</p>
   </li>
 
 <li>

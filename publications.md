@@ -24,7 +24,7 @@ noncoding RNA </a>. Genes. 2018, 9(11), 536. [<a href="https://rth.dk/resources/
   </li>	
   
  <li>
-    <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. 2019, 62(1). [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Yong-Xian Fan, Jue Jia, Hong-Bin Shen^. <a href="https://link.springer.com/article/10.1007/s11432-018-9558-2">Identifying RNA-binding proteins using multi-label deep learning</a>. SCIENCE CHINA Information Sciences. 2019, 62(1). [<a href="https://github.com/xypan1232/iDeepM">Code</a>]</p>
   </li> 
 
 <li>

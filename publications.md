@@ -6,8 +6,8 @@ title: Publications
 
 
 
-## Publications 
-See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
+## Selected publications 
+See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
 

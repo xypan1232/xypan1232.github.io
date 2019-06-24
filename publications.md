@@ -12,12 +12,12 @@ See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Y
 <ul>
 
 <li>
-    <p><b>Xiaoyong Pan</b>, Yang Yang, Chun-Qiu Xia, Aashiq H. Mirza, and Hong-Bin Shen. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wrna.1544">Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction</a>. WIREs RNA, 2019, in press.		    
+    <p><b>Xiaoyong Pan</b>, Yang Yang, Chun-Qiu Xia, Aashiq H. Mirza, and Hong-Bin Shen. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wrna.1544">Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction</a>. WIREs RNA, 2019, in press.</p>		    
   </li>
   
 <li>
     <p>	
-	Jasper Zuallaert, <b>Xiaoyong Pan</b>, Yvan Saeys, Xi Wang and Wesley De Neve. <a href="https://drive.google.com/file/d/1n_59HKJR430N0aIpfv_44Yr9pxhhrYZs/view">Investigating the biological relevance in trained embedding representations of protein sequences</a>. ICML Workshop on Computational Biology 2019.
+	Jasper Zuallaert, <b>Xiaoyong Pan</b>, Yvan Saeys, Xi Wang and Wesley De Neve. <a href="https://drive.google.com/file/d/1n_59HKJR430N0aIpfv_44Yr9pxhhrYZs/view">Investigating the biological relevance in trained embedding representations of protein sequences</a>. ICML Workshop on Computational Biology 2019. </p>
   </li>
 	    
 <li>

@@ -10,6 +10,16 @@ title: Publications
 See my Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+
+<li>
+    <p><b>Xiaoyong Pan</b>, Yang Yang, Chun-Qiu Xia, Aashiq H. Mirza, and Hong-Bin Shen. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wrna.1544">Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction</a>. WIREs RNA, 2019, in press.		    
+  </li>
+  
+<li>
+    <p>	
+	Jasper Zuallaert, <b>Xiaoyong Pan</b>, Yvan Saeys, Xi Wang and Wesley De Neve. <a href="https://drive.google.com/file/d/1n_59HKJR430N0aIpfv_44Yr9pxhhrYZs/view">Investigating the biological relevance in trained embedding representations of protein sequences</a>. ICML Workshop on Computational Biology 2019.
+  </li>
+	    
 <li>
     <p><b>Xiaoyong Pan</b>, Kai Xiong, Christian Anthon, Poul Hyttel, Kristine Freude, Lars Juhl Jensen, Jan Gorodkin. <a href="https://www.mdpi.com/2073-4425/9/11/536">WebCircRNA: Classifying the circular RNA potential of coding and 
 noncoding RNA </a>. Genes. 2018, 9(11), 536. [<a href="https://rth.dk/resources/webcircrna">Webserver</a>]</p>

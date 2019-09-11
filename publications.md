@@ -12,7 +12,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 <ul>
 
 <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="">Inferring disease-associated microRNAs using semi-supervised multi-label graph convolutional networks</a>. iScience. 2018, 34: 3427–3436. [<a href="https://github.com/xypan1232/DimiG">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="">Inferring disease-associated microRNAs using semi-supervised multi-label graph convolutional networks</a>. iScience. In press. [<a href="https://github.com/xypan1232/DimiG">Code</a>]</p>
   </li>
 	
 <li>

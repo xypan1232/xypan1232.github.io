@@ -12,11 +12,11 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 <ul>
 
 <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="">Inferring disease-associated microRNAs using semi-supervised multi-label graph convolutional networks</a>. iScience. In press. [<a href="https://github.com/xypan1232/DimiG">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://www.cell.com/iscience/fulltext/S2589-0042(19)30351-7">Inferring disease-associated microRNAs using semi-supervised multi-label graph convolutional networks</a>. iScience. In press. [<a href="https://github.com/xypan1232/DimiG">Code</a>]</p>
   </li>
 	
 <li>
-<p>Kaiming Zhang*, <b>Xiaoyong Pan*</b>, Yang Yang, and Hong-Bin Shen. CRIP: predicting circRNA-RBP interaction sites using a codon-based encoding and hybrid deep neural networks. RNA, 2019 (in press) (shared first author). [<a href="https://github.com/kavin525zhang/CRIP">Code</a>]</p>
+<p>Kaiming Zhang*, <b>Xiaoyong Pan*</b>, Yang Yang, and Hong-Bin Shen. <a href="https://rnajournal.cshlp.org/content/early/2019/09/19/rna.070565.119.short?rss=1">CRIP: predicting circRNA-RBP interaction sites using a codon-based encoding and hybrid deep neural networks</a>. RNA, 2019 (in press) (shared first author). [<a href="https://github.com/kavin525zhang/CRIP">Code</a>]</p>
   </li>
 <li>
     <p><b>Xiaoyong Pan</b>, Yang Yang, Chun-Qiu Xia, Aashiq H. Mirza, and Hong-Bin Shen. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/wrna.1544">Recent Methodology and Progress of Deep learning for RNA-protein interaction prediction</a>. WIREs RNA, 2019, in press.</p>		    

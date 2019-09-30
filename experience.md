@@ -14,7 +14,7 @@ title: Experience
 
 ## Academic Experience
 08/2019- now        Tenure-track assistant professor at Shanghai Jiao Tong University. <br>
-02/2019- 07/2019    PostDoc in Ghent University and BASF. <br>
+02/2019- 07/2019    PostDoc in Ghent University and BASF, Gent. Belgium. <br>
 12/2016- 11/2018    Postdoc in Department of medical informatics at Erasmus MC, Rotterdam, Nertherlands. <br>
 09/2013-12/2016     Ph.D. in Bioinformatics,
                     University of Copenhagen, Copenhagen, Denmark <br>

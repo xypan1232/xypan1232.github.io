@@ -10,7 +10,10 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
-
+<li>
+<p> Chun-Qiu Xia, <b>Xiaoyong Pan</b>, and Hong-Bin Shen. Protein-ligand binding residue prediction enhancement through hybrid deep heterogeneous learning of sequence and structure data. Bioinformatics, 2020 (in press). [<a href="http://www.csbio.sjtu.edu.cn/bioinf/delia/">Server</a>] </p>
+ </li>
+	
 <li>
     <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://www.cell.com/iscience/fulltext/S2589-0042(19)30351-7">Inferring disease-associated microRNAs using semi-supervised multi-label graph convolutional networks</a>. iScience. In press. [<a href="https://github.com/xypan1232/DimiG">Code</a>]</p>
   </li>

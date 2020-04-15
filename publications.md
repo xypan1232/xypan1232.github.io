@@ -11,6 +11,10 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 (^ Correspondence author) <br>
 <ul>
 <li>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="">Scoring disease-microRNA associations by integrating disease hierarchy into graph convolutional networks</a>. Pattern Recognition. In press. </p>
+  </li>	
+	
+<li>
 <p> Chun-Qiu Xia, <b>Xiaoyong Pan</b>, and Hong-Bin Shen. Protein-ligand binding residue prediction enhancement through hybrid deep heterogeneous learning of sequence and structure data. Bioinformatics, 2020 (in press). [<a href="http://www.csbio.sjtu.edu.cn/bioinf/delia/">Server</a>] </p>
  </li>
 	

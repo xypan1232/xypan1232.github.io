@@ -11,7 +11,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 (^ Correspondence author) <br>
 <ul>
 <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="">Scoring disease-microRNA associations by integrating disease hierarchy into graph convolutional networks</a>. Pattern Recognition. In press. </p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="">Scoring disease-microRNA associations by integrating disease hierarchy into graph convolutional networks</a>. Pattern Recognition. 2020, In press. </p>
   </li>	
 	
 <li>
@@ -19,7 +19,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
  </li>
 	
 <li>
-    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://www.cell.com/iscience/fulltext/S2589-0042(19)30351-7">Inferring disease-associated microRNAs using semi-supervised multi-label graph convolutional networks</a>. iScience. In press. [<a href="https://github.com/xypan1232/DimiG">Code</a>]</p>
+    <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="https://www.cell.com/iscience/fulltext/S2589-0042(19)30351-7">Inferring disease-associated microRNAs using semi-supervised multi-label graph convolutional networks</a>. iScience. 20: 265-277. [<a href="https://github.com/xypan1232/DimiG">Code</a>]</p>
   </li>
 	
 <li>

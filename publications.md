@@ -10,6 +10,19 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+
+<li>
+    <p>Xiaoyong Pan*, Jasper Zuallaert, Xi Wang, Hong-Bin Shen, Elda Posada Campos, Denys O. Marushchak, Wesley De Neve. <a href="">ToxDL: Deep learning using primary structure and domain embeddings for assessing protein toxicity.</a>. Bioinformatics, 2020, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/ToxDL">Server</a>]  [<a href="https://github.com/xypan1232/ToxDL">Code</a>]</p>
+  </li>	
+
+<li>
+    <p>Haitao Yang, Zhaohong Deng, <b>Xiaoyong Pan</b>, Hong-bin Shen, Kup-Sze, Choi, Lei Wang, Shitong Wang, Jing Wu. <a href="">RNA-binding protein recognition based on multi-view deep feature and multi-label learning.</a>. Briefings in Bioinformatics, 2020, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/iDeepMV/">Server</a>]  [<a href="http://github.com/uchihayht/iDeepMV">Code</a>]</p>
+  </li>	
+
+<li>
+    <p>Wei-Xun Zhang, <b>Xiaoyong Pan</b>, Hong-Bin Shen. <a href="">Signal-3L 3.0: Improving signal peptide prediction through combining attention deep learning with window-based scoring.</a>. Journal of Chemical Information and Modeling, 2020, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/Signal-3L/">Server</a>]</p>
+  </li>	
+
 <li>
     <p><b>Xiaoyong Pan^</b>, Hong-Bin Shen^. <a href="">Scoring disease-microRNA associations by integrating disease hierarchy into graph convolutional networks</a>. Pattern Recognition. 2020, In press. </p>
   </li>	

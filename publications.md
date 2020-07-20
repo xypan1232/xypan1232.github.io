@@ -15,8 +15,8 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
     <p><b>Xiaoyong Pan^</b>, Jasper Zuallaert, Xi Wang, Hong-Bin Shen, Elda Posada Campos, Denys O. Marushchak, Wesley De Neve. <a href="">ToxDL: Deep learning using primary structure and domain embeddings for assessing protein toxicity</a>. Bioinformatics, 2020, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/ToxDL">Server</a>]  [<a href="https://github.com/xypan1232/ToxDL">Code</a>]</p>
   </li>	
 <li>
-	Sikai Ling, Shiqi Yang, Xinde Hu, Di Yin, Yao Dai, Xiaoqing Qian, Dawei Wang, <b>Xiaoyong Pan</b>, Jiaxu Hong, Xiaodong Sun, Hui Yang, Soren Riis Paludan and Yujia Cai。 Hit-and-run knockout of vegfa by lentiviral nanoparticle-delivered Cas9 mRNA prevents wet age-related macular degeneration. Nature Biomedical Engineering, 2020, in press.
-	 </li>	
+	<p>Sikai Ling, Shiqi Yang, Xinde Hu, Di Yin, Yao Dai, Xiaoqing Qian, Dawei Wang, <b>Xiaoyong Pan</b>, Jiaxu Hong, Xiaodong Sun, Hui Yang, Soren Riis Paludan and Yujia Cai。 Hit-and-run knockout of vegfa by lentiviral nanoparticle-delivered Cas9 mRNA prevents wet age-related macular degeneration. Nature Biomedical Engineering, 2020, in press. </p>
+</li>	
 <li>
     <p>Haitao Yang, Zhaohong Deng, <b>Xiaoyong Pan</b>, Hong-bin Shen, Kup-Sze, Choi, Lei Wang, Shitong Wang, Jing Wu. <a href="">RNA-binding protein recognition based on multi-view deep feature and multi-label learning</a>. Briefings in Bioinformatics, 2020, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/iDeepMV/">Server</a>]  [<a href="http://github.com/uchihayht/iDeepMV">Code</a>]</p>
   </li>	

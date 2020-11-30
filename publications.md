@@ -15,7 +15,6 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 <li>
     <p><b>Xiaoyong Pan^</b>, Yi Fang, Xianfeng Li, Yang Yang, and Hong-Bin Shen. <a href="">RBPsuite: RNA-protein binding sites prediction suite based on deep learning</a>. BMC Genomics, 2020, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/RBPsuite/">Server</a>]</p>
   </li>	
-<li>
 	
 <li>
     <p><b>Xiaoyong Pan^</b>, Jasper Zuallaert, Xi Wang, Hong-Bin Shen, Elda Posada Campos, Denys O. Marushchak, Wesley De Neve. <a href="">ToxDL: Deep learning using primary structure and domain embeddings for assessing protein toxicity</a>. Bioinformatics, 2020, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/ToxDL">Server</a>]  [<a href="https://github.com/xypan1232/ToxDL">Code</a>]</p>

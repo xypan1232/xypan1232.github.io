@@ -11,6 +11,9 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 (^ Correspondence author) <br>
 <ul>
 
+<li>
+    <p> Ying Xia, Chunqiu Xia, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. <a href="">GraphBind: protein structural context embedded rules learned by hierarchical graph neural networks for recognizing nucleic-acid-binding residues</a>. Nucleic Acids Research, 2021, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/GraphBind/">Server</a>]</p>
+  </li>	
 
 <li>
     <p><b>Xiaoyong Pan^</b>, Yi Fang, Xianfeng Li, Yang Yang, and Hong-Bin Shen. <a href="">RBPsuite: RNA-protein binding sites prediction suite based on deep learning</a>. BMC Genomics, 2020, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/RBPsuite/">Server</a>]</p>

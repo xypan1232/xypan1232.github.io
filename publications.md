@@ -12,6 +12,9 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 <ul>
 
 <li>
+    <p> Yang Lin, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. <a href="">lncLocator 2.0: a cell-line-specific subcellular localization predictor for long non-coding RNAs with interpretable deep learning.</a>. Bioinformatics, 2021, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/lncLocator2/">Server</a>]</p>
+  </li>	
+<li>
     <p> Ying Xia, Chunqiu Xia, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. <a href="">GraphBind: protein structural context embedded rules learned by hierarchical graph neural networks for recognizing nucleic-acid-binding residues</a>. Nucleic Acids Research, 2021, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/GraphBind/">Server</a>]</p>
   </li>	
 

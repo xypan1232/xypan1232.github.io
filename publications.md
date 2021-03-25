@@ -12,6 +12,10 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 <ul>
 
 <li>
+    <p> <b>Xiaoyong Pan^</b>, Lei Chen, Ｍin Liu, Zhibin Niu, Tao Huang, Yu-Dong Cai. <a href="">Identifying protein subcellular locations with embeddings-based node2loc.</a>. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021, Minor revision. [<a href="https://github.com/xypan1232/node2loc">Code</a>]</p>
+  </li>	
+  
+<li>
     <p> Yang Lin, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. <a href="">lncLocator 2.0: a cell-line-specific subcellular localization predictor for long non-coding RNAs with interpretable deep learning.</a>. Bioinformatics, 2021, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/lncLocator2/">Server</a>]</p>
   </li>	
 <li>

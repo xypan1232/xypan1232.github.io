@@ -10,13 +10,16 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
-
+<li><p> 
+Cheng-Peng Zhou, Di Wang, <b>Xiaoyong Pan</b>, and Hong-Bin Shen. Protein structure refinement using multi-objective particle swarm optimization with decomposition strategy.
+International Journal of Molecular Sciences, 2021 (in press).  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/AIR/">Code</a>]
+	</p> </li>
 <li>
-    <p> <b>Xiaoyong Pan^</b>, Lei Chen, Ｍin Liu, Zhibin Niu, Tao Huang, Yu-Dong Cai. <a href="">Identifying protein subcellular locations with embeddings-based node2loc.</a>. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021, Minor revision. [<a href="https://github.com/xypan1232/node2loc">Code</a>]</p>
+    <p> <b>Xiaoyong Pan^</b>, Lei Chen, Ｍin Liu, Zhibin Niu, Tao Huang, Yu-Dong Cai. <a href="">Identifying protein subcellular locations with embeddings-based node2loc.</a> IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021, Minor revision. [<a href="https://github.com/xypan1232/node2loc">Code</a>]</p>
   </li>	
   
 <li>
-    <p> Yang Lin, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. <a href="">lncLocator 2.0: a cell-line-specific subcellular localization predictor for long non-coding RNAs with interpretable deep learning.</a>. Bioinformatics, 2021, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/lncLocator2/">Server</a>]</p>
+    <p> Yang Lin, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. <a href="">lncLocator 2.0: a cell-line-specific subcellular localization predictor for long non-coding RNAs with interpretable deep learning</a>. Bioinformatics, 2021, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/lncLocator2/">Server</a>]</p>
   </li>	
 <li>
     <p> Ying Xia, Chunqiu Xia, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. <a href="">GraphBind: protein structural context embedded rules learned by hierarchical graph neural networks for recognizing nucleic-acid-binding residues</a>. Nucleic Acids Research, 2021, In press. [<a href="http://www.csbio.sjtu.edu.cn/bioinf/GraphBind/">Server</a>]</p>

@@ -15,7 +15,7 @@ Cheng-Peng Zhou, Di Wang, <b>Xiaoyong Pan</b>, and Hong-Bin Shen. Protein struct
 International Journal of Molecular Sciences, 2021 (in press).  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/AIR/">Code</a>]
 	</p> </li>
 <li>
-    <p> <b>Xiaoyong Pan^</b>, Lei Chen, Ｍin Liu, Zhibin Niu, Tao Huang, Yu-Dong Cai. <a href="">Identifying protein subcellular locations with embeddings-based node2loc.</a> IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021, Minor revision. [<a href="https://github.com/xypan1232/node2loc">Code</a>]</p>
+    <p> <b>Xiaoyong Pan^</b>, Lei Chen, Ｍin Liu, Zhibin Niu, Tao Huang, Yu-Dong Cai. <a href="">Identifying protein subcellular locations with embeddings-based node2loc.</a> IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021, in press. [<a href="https://github.com/xypan1232/node2loc">Code</a>]</p>
   </li>	
   
 <li>

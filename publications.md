@@ -14,7 +14,6 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 Hehe Wu, <b>Xiaoyong Pan^</b>, Yang Yang and Hong-Bin Shen^. Recognizing binding sites of poorly characterized RNA-binding proteins on circular RNAs using attention Siamese network.
 Briefings in Bioinformatics, 2021 (in press).  [<a href="https://github.com/hehew321/iDeepC">Code</a>]
 	</p> </li>
-<li>
 	
 <li><p> 
 Cheng-Peng Zhou, Di Wang, <b>Xiaoyong Pan</b>, and Hong-Bin Shen. Protein structure refinement using multi-objective particle swarm optimization with decomposition strategy.

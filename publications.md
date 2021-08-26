@@ -10,12 +10,10 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
-
 	<li><p> 
 Yong-Xian Fan^, Meijun Chen, <b>Xiaoyong Pan^</b>. GCRFLDA: Scoring lncRNA-disease associations using graph convolution matrix completion with conditional random field.
 Briefings in Bioinformatics, 2021 (in press). 
 	</p> </li>
-	
 	<li><p> 
 Hehe Wu, <b>Xiaoyong Pan^</b>, Yang Yang and Hong-Bin Shen^. Recognizing binding sites of poorly characterized RNA-binding proteins on circular RNAs using attention Siamese network.
 Briefings in Bioinformatics, 2021 (in press).  [<a href="https://github.com/hehew321/iDeepC">Code</a>]

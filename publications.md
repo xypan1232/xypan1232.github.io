@@ -18,6 +18,9 @@ Briefings in Bioinformatics, 2021 (in press).
 Hehe Wu, <b>Xiaoyong Pan^</b>, Yang Yang and Hong-Bin Shen^. Recognizing binding sites of poorly characterized RNA-binding proteins on circular RNAs using attention Siamese network.
 Briefings in Bioinformatics, 2021 (in press).  [<a href="https://github.com/hehew321/iDeepC">Code</a>]
 	</p> </li>
+<li><p> 	
+	Hui Li, Zhaohong Deng, Haitao Yang, <b>Xiaoyong Pan</b>, Zhisheng Wei, Hong-Bin Shen, Kup Sze Choi, Lei Wang, Shitong Wang, and Jing Wu. circRNA-binding protein sites prediction based on multi-view deep learning, subspace learning and multi-view classifier. Briefings in Bioinformatics, 2021 (in press).  [<a href=" https://github.com/Rebecca3150/DMSK">Code</a>]
+	</p> </li>
 	
 <li><p> 
 Cheng-Peng Zhou, Di Wang, <b>Xiaoyong Pan</b>, and Hong-Bin Shen. Protein structure refinement using multi-objective particle swarm optimization with decomposition strategy.

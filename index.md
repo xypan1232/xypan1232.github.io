@@ -12,6 +12,8 @@ In 2013, I received outstanding master thesis award from Shanghai Education Comm
 # Research Interest
 
 Bioinformatics, Machine Learning, Non-coding RNA, Text Mining, Deep Learning, RNA-seq. 
+<br><br>
+<font color="red"><b>I am looking for PhD student, post-doc, Master students and highly self-motivated undergraduates, who are interested in Pattern recognition and Bioinformatics. Please send me your CV via 2008xypan AT sjtu.edu.cn </b> </font>
 
 
 

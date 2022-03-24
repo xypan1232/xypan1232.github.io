@@ -11,8 +11,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 (^ Correspondence author) <br>
 <ul>
 <li><p> 
-	Fast protein structure comparison through effective representation learning with contrastive graph neural networks.
-Chunqiu Xia, Shi-Hao Feng, Ying Xia, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^.
+	Chunqiu Xia, Shi-Hao Feng, Ying Xia, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. Fast protein structure comparison through effective representation learning with contrastive graph neural networks.
 PLoS Computational Biology, 2022 (in press).  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/GraSR/">Server</a>]
 	</p> </li>
 	<li><p> 

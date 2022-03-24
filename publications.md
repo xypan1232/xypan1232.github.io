@@ -10,6 +10,11 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+<li><p> 
+	Fast protein structure comparison through effective representation learning with contrastive graph neural networks.
+Chunqiu Xia, Shi-Hao Feng, Ying Xia, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^.
+PLoS Computational Biology, 2022 (in press).  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/GraSR/">Server</a>]
+	</p> </li>
 	<li><p> 
 Yong-Xian Fan^, Meijun Chen, <b>Xiaoyong Pan^</b>. GCRFLDA: Scoring lncRNA-disease associations using graph convolution matrix completion with conditional random field.
 Briefings in Bioinformatics, 2021 (in press). 

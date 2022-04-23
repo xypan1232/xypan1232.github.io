@@ -11,7 +11,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 (^ Correspondence author) <br>
 <ul>
 <li>
-    <p>Yong-Xian Fan, Guicong Sun, <b>Xiaoyong Pan^</b>. <a href="">ELMo4m6A: a contextual language embedding-based predictor for detecting RNA N6-methyladenosine sites.</a> IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021, Minor revision. [<a href="https://github.com/GuicongSun/ELMo4m6A">Code</a>]</p>
+    <p>Yong-Xian Fan, Guicong Sun, <b>Xiaoyong Pan^</b>.ELMo4m6A: a contextual language embedding-based predictor for detecting RNA N6-methyladenosine sites. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021, Minor revision. [<a href="https://github.com/GuicongSun/ELMo4m6A">Code</a>]</p>
   </li>	
 <li><p> 
 	Chunqiu Xia, Shi-Hao Feng, Ying Xia, <b>Xiaoyong Pan^</b>, and Hong-Bin Shen^. Fast protein structure comparison through effective representation learning with contrastive graph neural networks.

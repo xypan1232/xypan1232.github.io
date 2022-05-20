@@ -11,6 +11,9 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 (^ Correspondence author) <br>
 <ul>
 <li>
+    <p>Jiachen Li, Siheng Chen, <b>Xiaoyong Pan</b>, Ye Yuan, Hong-Bin Shen.Cell clustering for spatial transcriptomics data with graph neural networks. Nature Computational Science, 2022 (in press). </p>
+  </li>	
+<li>
     <p>Yong-Xian Fan^, Guicong Sun, <b>Xiaoyong Pan^</b>.ELMo4m6A: a contextual language embedding-based predictor for detecting RNA N6-methyladenosine sites. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2022 (in press). [<a href="https://github.com/GuicongSun/ELMo4m6A">Code</a>]</p>
   </li>	
 <li><p> 

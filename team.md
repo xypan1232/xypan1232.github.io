@@ -4,20 +4,20 @@ permalink: /team/index.html
 title: Team
 ---
 
-# PostDoc
+## PostDoc
 Xiaojian Liu <br>
 
-# PhD student
+## PhD student
 Shengfan Wang <br>
 Changyong Li  <br>
 Ying Xia (Co-supervise with Hong-Bin Shen) <br>
 Yi Fang (Co-supervise with Hong-Bin Shen) <br>
 
-# Master student
+## Master student
 Yuxuan Wang <br>
 yichong Li <br>
 
-# Alumni
+## Alumni
 Zhengxin Dong (MSc, now Alibaba) <br>
 Hehe Wu (MSc, now Huawei) <br>
 Yang Li (BSc, now PhD student at The École polytechnique fédérale de Lausanne (EPFL)) <br>

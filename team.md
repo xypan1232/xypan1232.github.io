@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/index.html
-title: Projects
+title: Team
 ---
 
 # Research Projects

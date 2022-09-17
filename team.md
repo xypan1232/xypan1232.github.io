@@ -15,7 +15,8 @@ Yi Fang (Co-supervise with Hong-Bin Shen) <br>
 
 ## Master student
 Yuxuan Wang <br>
-yichong Li <br>
+Chengyang Song <br>
+Yichong Li (Now SJTU PhD student with Prof Yang Yang) <br>
 
 ## Alumni
 Zhengxin Dong (MSc, now Alibaba) <br>

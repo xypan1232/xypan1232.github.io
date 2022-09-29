@@ -10,6 +10,11 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+	<li>
+	 <p>Ying Xia, Chun-Qiu Xia, Xiaoyong Pan^, Hong-Bin Shen^. BindWeb: a web server for ligand binding residue and pocket prediction from protein structures.
+Protein Science, 2022 (in press).[<a href="http://www.csbio.sjtu.edu.cn/bioinf/BindWeb/">Server</a>]
+		 </p>
+  </li>	
 <li>
     <p>Jiachen Li, Siheng Chen, <b>Xiaoyong Pan</b>, Ye Yuan, Hong-Bin Shen.Cell clustering for spatial transcriptomics data with graph neural networks. Nature Computational Science, 2022 (in press). </p>
   </li>	

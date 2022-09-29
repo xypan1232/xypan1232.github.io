@@ -11,8 +11,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 (^ Correspondence author) <br>
 <ul>
 	<li>
-	 <p>Ying Xia, Chun-Qiu Xia, Xiaoyong Pan^, Hong-Bin Shen^. BindWeb: a web server for ligand binding residue and pocket prediction from protein structures.
-Protein Science, 2022 (in press).[<a href="http://www.csbio.sjtu.edu.cn/bioinf/BindWeb/">Server</a>]
+	 <p>Ying Xia, Chun-Qiu Xia, <b>Xiaoyong Pan</b>^, Hong-Bin Shen^. BindWeb: a web server for ligand binding residue and pocket prediction from protein structures. Protein Science, 2022 (in press).[<a href="http://www.csbio.sjtu.edu.cn/bioinf/BindWeb/">Server</a>]
 		 </p>
   </li>	
 <li>

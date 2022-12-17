@@ -10,6 +10,8 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+<li><p>Chunqiu Xia, Shi-Hao Feng, Ying Xia, <b>Xiaoyong Pan</b>^, Hong-Bin Shen^. Leveraging Scaffold Information to Predict Protein-ligand Binding Affinity with an Empirical Graph Neural Network. Briefings in Bioinformatics, 2022(in press) [<a href="http://www.csbio.sjtu.edu.cn/bioinf/EGNA/">Server</a>]</p>
+	</li>
 	<li>
 	 <p>Ying Xia, Chun-Qiu Xia, <b>Xiaoyong Pan</b>^, Hong-Bin Shen^. BindWeb: a web server for ligand binding residue and pocket prediction from protein structures. Protein Science, 2022 (in press).[<a href="http://www.csbio.sjtu.edu.cn/bioinf/BindWeb/">Server</a>]
 		 </p>

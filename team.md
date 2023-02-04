@@ -10,6 +10,7 @@ Xiaojian Liu <br>
 ## PhD student
 Shengfan Wang <br>
 Changyong Li  <br>
+Chun-Qiu Xia (Co-supervise with Hong-Bin Shen) <br>
 Ying Xia (Co-supervise with Hong-Bin Shen) <br>
 Yi Fang (Co-supervise with Hong-Bin Shen) <br>
 

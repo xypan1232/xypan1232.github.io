@@ -5,10 +5,7 @@ title: Publications
 ---
 
 ## Preprint
-<ul>
-<li><p>Hehe Wu, Yi Fang, Yang Yang, <b>Xiaoyong Pan</b>^, Hong-Bin Shen^. Decoding protein binding landscape on circular RNAs with base-resolution Transformer models. [<a href="https://www.biorxiv.org/content/10.1101/2022.11.20.517239v1">Biorxiv 2022.11.20.517239</a>], 2022 </p>
-	</li>
-</ul>
+
 
 ## Selected publications 
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>

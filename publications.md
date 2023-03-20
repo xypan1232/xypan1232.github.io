@@ -13,7 +13,8 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 <ul>
 <li><p>Yi Fang, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^. De Novo Drug Design by Iterative Multi-Objective Deep Reinforcement Learning with Graph-based Molecular Quality Assessment. Bioinformatics, 2023(in press) [<a href="https://github.com/yifang000/QADD">Code</a>]</p>
 	</li>
-	
+<li><p>Zhinuo Zhou, Ge-Yi Fu, Yi Fang, Ye Yuan, Hong-Bin Shen, Chun-Sheng Wang, Xue-Wei Xu, Peng Zhou^ and <b>Xiaoyong Pan</b>^. EchoAI: a deep-learning based model for classification of echinoderms in global oceans. Front. Mar. Sci. - Ocean Observation, 2023(in press) [<a href="http://www.csbio.sjtu.edu.cn/bioinf/EchoAI/">Server</a>]</p>
+	</li>	
 <li><p>Chunqiu Xia, Shi-Hao Feng, Ying Xia, <b>Xiaoyong Pan</b>^, Hong-Bin Shen^. Leveraging Scaffold Information to Predict Protein-ligand Binding Affinity with an Empirical Graph Neural Network. Briefings in Bioinformatics, 2022(in press) [<a href="http://www.csbio.sjtu.edu.cn/bioinf/EGNA/">Server</a>]</p>
 	</li>
 	<li>

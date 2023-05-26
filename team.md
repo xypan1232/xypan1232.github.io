@@ -19,6 +19,11 @@ Yuxuan Wang <br>
 Chengyang Song <br>
 Yichong Li (Now SJTU PhD student with Prof Yang Yang) <br>
 
+## Bachelor student
+Zhinuo Zhou <br>
+Chenhan Yang <br>
+Zhiyi Tu<br>
+
 ## Alumni
 Zhengxin Dong (MSc, now Alibaba) <br>
 Hehe Wu (MSc, now Huawei) <br>

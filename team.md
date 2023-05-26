@@ -21,7 +21,7 @@ Yichong Li (Now SJTU PhD student with Prof Yang Yang) <br>
 
 ## Bachelor student
 Zhinuo Zhou <br>
-Chenhan Yang <br>
+Chenghan Yang <br>
 Zhiyi Tu<br>
 
 ## Alumni

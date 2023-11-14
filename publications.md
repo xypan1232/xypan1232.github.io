@@ -11,6 +11,8 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+ <li><p>Yuxuan Wang, Ying Xia, Junchi Yan, Ye Yuan, Hong-Bin Shen, <b>Xiaoyong Pan^</b>. ZeroBind: A protein-specific zero-shot predictor with subgraph matching for drug-target interactions. Nature Communications, 2023 (in press)  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/ZeroBind/">Server</a>]</p>
+	 
 <li><p>Ye Yuan, Qushuo Chen, Jun Mao, Guipeng Li, <b>Xiaoyong Pan</b>. DG-Affinity: predicting antigen–antibody affinity with language models from sequences. BMC Bioinformatics 2023 (in press)</p>
  
 <li><p>Ying Xia, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^. LigBind: identifying binding residues for over 1000 ligands with relation-aware graph neural networks. Journal of Molecular Biology, 2023 (in press)  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/LigBind/">Server</a>]</p>

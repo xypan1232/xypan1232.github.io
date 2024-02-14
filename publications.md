@@ -13,7 +13,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
 <ul>
 <li><p>Ying Xia, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^.	Heterogeneous sampled subgraph neural networks with knowledge distillation to enhance double-blind protein-compound interaction prediction. Structure, 2024 (in press) [<a href="http://www.csbio.sjtu.edu.cn/bioinf/SgCPI/">Server</a>]</p>
  	</li>
- <li><p>Jiachen Li, Siheng Chen, <b>Xiaoyong Pan</b>, Ye Yuan, Hong-Bin Shen. TFvelo: gene regulation inspired RNA velocity estimation. Nature Communications, 2024 (in press)
+ <li><p>Jiachen Li, <b>Xiaoyong Pan</b>, Ye Yuan, Hong-Bin Shen. TFvelo: gene regulation inspired RNA velocity estimation. Nature Communications, 2024 (in press)
 	 	</li>
  <li><p>Yuxuan Wang, Ying Xia, Junchi Yan, Ye Yuan, Hong-Bin Shen, <b>Xiaoyong Pan^</b>. ZeroBind: A protein-specific zero-shot predictor with subgraph matching for drug-target interactions. Nature Communications, 2023 (in press)  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/ZeroBind/">Server</a>]</p>
 	</li>	 

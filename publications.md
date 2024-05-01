@@ -17,7 +17,8 @@ See my full Publication at <a href="https://scholar.google.com/citations?hl=en&u
  	</li>
  <li><p>Jiachen Li, <b>Xiaoyong Pan</b>, Ye Yuan, Hong-Bin Shen. TFvelo: gene regulation inspired RNA velocity estimation. Nature Communications, 2024 (in press)</p>
 	 	</li>
-	
+ <li><p>Hailong Yang, Yue Chen, Yun Zuo, Zhaohong Deng, Xiaoyong Pan, Hong-Bin Shen, Kup-Sze Choi, and Dong-Jun Yu. MINDG: A drug-target interaction prediction method based on an integrated learning algorithm.Bioinformatics, 2024, btae147.	</p>
+	</li> 
  <li><p>Hehe Wu, Xiaojian Liu, Yi Fang, Yang Yang, Yan Huang, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^. Decoding protein binding landscape on circular RNAs with base-resolution Transformer models. Computers in Biology and Medicine, 2024 (in press)[<a href="http://www.csbio.sjtu.edu.cn/bioinf/CircSite/">Server</a>]</p>
 	 	</li>	
  <li><p>Yuxuan Wang, Ying Xia, Junchi Yan, Ye Yuan, Hong-Bin Shen, <b>Xiaoyong Pan^</b>. ZeroBind: A protein-specific zero-shot predictor with subgraph matching for drug-target interactions. Nature Communications, 2023 (in press)  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/ZeroBind/">Server</a>]</p>

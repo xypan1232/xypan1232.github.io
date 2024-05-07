@@ -8,7 +8,7 @@ title: Publications
 
 
 ## Selected publications 
-See my full Publication at <a href="https://scholar.google.com/citations?hl=en&user=Yis2IzgAAAAJ">Google Scholar</a> <br><br>
+See my full Publication at <a href="https://scholar.google.com/citations?user=fjbCfj8AAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
 <li><p>Ying Xia, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^. Heterogeneous sampled subgraph neural networks with knowledge distillation to enhance double-blind protein-compound interaction prediction. Structure, 2024 (in press) [<a href="http://www.csbio.sjtu.edu.cn/bioinf/SgCPI/">Server</a>]</p>

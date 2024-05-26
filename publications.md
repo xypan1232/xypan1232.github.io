@@ -12,9 +12,8 @@ See my full Publication at <a href="https://scholar.google.com/citations?user=fj
 (^ Correspondence author) <br>
 <ul>
 <li>	Yao Dai#, Manja Idorn#, Manutea C Serrero, <b>Xiaoyong Pan</b>, Emil A Thomsen, Ryo Narita, Muyesier Maimaitili, Xiaoqing Qian, Marie B Iversen, Line S Reinert, Rasmus K Flygaard, Muwan Chen, Xiangning Ding, Bao-cun Zhang, Madalina E Carter-Timofte, Lu Qing, Zhuofan Jiang, Yiye Zhong, Shuhui Zhang, Lintai Da, Jinwei Zhu, Mark Denham, Poul Nissen, Trine H Mogensen, Jacob Giehm Mikkelsen, Shen-Ying Zhang, Jean-Laurent Casanova, Yujia Cai*, Søren R Paludan*. TMEFF1 is a neuron-specific restriction factor for herpes simplex virus. Nature (2024, accepted)
-	
-<li><p>Ying Xia, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^. Heterogeneous sampled subgraph neural networks with knowledge distillation to enhance double-blind protein-compound interaction prediction. Structure, 2024 (in press) [<a href="http://www.csbio.sjtu.edu.cn/bioinf/SgCPI/">Server</a>]</p>
 	</li>
+<li><p>Ying Xia, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^. Heterogeneous sampled subgraph neural networks with knowledge distillation to enhance double-blind protein-compound interaction prediction. Structure, 2024 (in press) [<a href="http://www.csbio.sjtu.edu.cn/bioinf/SgCPI/">Server</a>]</p>
  	</li>
 <li><p>Ying Xia, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^. A comprehensive survey on protein-ligand binding site prediction. Current Opinion in Structural Biology, 2024 (in press) </p>
  	</li>

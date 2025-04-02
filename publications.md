@@ -11,9 +11,11 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?user=fjbCfj8AAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+<li><p>Lin Zhu, Yi Fang, Shuting Liu, Hong-Bin Shen, Wesley De Neve,<b>Xiaoyong Pan^</b>. ToxDL 2.0: Protein toxicity prediction using a pretrained language model and graph neural networks  Computational and Structural Biotechnology Journal 2025 (In press )  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/ToxDL2/">Server</a>]</p>
+</li>
 <li><p> 
 Yichong Li, <b>Xiaoyong Pan^</b>, Hong-Bin Shen, Yang Yang^. DRAG: Design RNAs as Hierarchical Graphs with Reinforcement Learning, Briefings in Bioinformatics 2025 (in press)
- 	</li>	
+</p></li>	
  <li><p> Xiaoyong Pan, Yi Fang, Xiaojian Liu, Xiaoyu Guo, Hong-Bin Shen. RBPsuite 2.0: an updated RNA-protein binding site prediction suite with high coverage on species and proteins based on deep learning. BMC Biology 2025 (In press )  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/RBPsuite/">Server</a>]</p>
 	</li>	
  <li><p>Weimin Zhu, Xiaohan Ding, Hong-Bin Shen, <b>Xiaoyong Pan^</b>. Identifying RNA-small Molecule Binding Sites Using Geometric Deep Learning with Language Models. Journal of Molecular Biology, 2025 (in press)  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/RNABind/">Server</a>]</p>

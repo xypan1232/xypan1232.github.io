@@ -26,7 +26,7 @@ Chenghan Yang <br>
 Zhiyi Tu<br>
 
 ## Alumni
-Chengyang Song (Xuan diao sheng at Goverment)<br>
+Chengyang Song (MSc, Xuan diao sheng at Goverment)<br>
 Yuxuan Wang (MSc, now Huawei) <br>
 Yichong Li (Now SJTU PhD student with Prof Yang Yang) <br>
 Zhengxin Dong (MSc, now Alibaba) <br>

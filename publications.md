@@ -11,6 +11,9 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?user=fjbCfj8AAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
+<li><p>
+Xiaoyu Guo, Yi-Fan Li, Yuan Liu, and <b>Xiaoyong Pan</b>，Hong-Bin Shen, Ab-Initio Amino Acid Sequence Design from Any Protein Text Description with ProtDAT. Nature Communications 2025(in press)</p>
+</li>
 <li><p>Xiaojian Liu, Weimin Zhu, Xiaohan Ding,  Yi Fang,  Shengfan Wang,  Lin Zhu, Hong-Bin Shen,<b>Xiaoyong Pan^</b>. Base-resolution binding profile prediction of proteins on RNAs with deep learning. Nucleic Acids Research 2025 (In press )  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/iDeepB/">Server</a>]</p>
 </li>
 <li><p>Lin Zhu, Yi Fang, Shuting Liu, Hong-Bin Shen, Wesley De Neve,<b>Xiaoyong Pan^</b>. ToxDL 2.0: Protein toxicity prediction using a pretrained language model and graph neural networks.  Computational and Structural Biotechnology Journal 2025 (In press )  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/ToxDL2/">Server</a>]</p>
@@ -18,7 +21,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?user=fj
 <li><p> 
 Yichong Li, <b>Xiaoyong Pan^</b>, Hong-Bin Shen, Yang Yang^. DRAG: Design RNAs as Hierarchical Graphs with Reinforcement Learning, Briefings in Bioinformatics 2025 (in press)
 </p></li>	
- <li><p> Xiaoyong Pan, Yi Fang, Xiaojian Liu, Xiaoyu Guo, Hong-Bin Shen. RBPsuite 2.0: an updated RNA-protein binding site prediction suite with high coverage on species and proteins based on deep learning. BMC Biology 2025 (In press )  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/RBPsuite/">Server</a>]</p>
+ <li><p> <b>Xiaoyong Pan</b>, Yi Fang, Xiaojian Liu, Xiaoyu Guo, Hong-Bin Shen. RBPsuite 2.0: an updated RNA-protein binding site prediction suite with high coverage on species and proteins based on deep learning. BMC Biology 2025 (In press )  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/RBPsuite/">Server</a>]</p>
 	</li>	
  <li><p>Weimin Zhu, Xiaohan Ding, Hong-Bin Shen, <b>Xiaoyong Pan^</b>. Identifying RNA-small Molecule Binding Sites Using Geometric Deep Learning with Language Models. Journal of Molecular Biology, 2025 (in press)  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/RNABind/">Server</a>]</p>
 	</li>	

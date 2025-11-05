@@ -11,7 +11,7 @@ Xiaojian Liu <br>
 Yiming Xue <br>
 Weimin Zhu <br>
 Shengfan Wang <br>
-Changyong Li  <br>
+Bingtong Chen  <br>
 Yi Fang (Co-supervise with Prof. Hong-Bin Shen) <br>
 
 ## Master student

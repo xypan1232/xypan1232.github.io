@@ -12,6 +12,9 @@ See my full Publication at <a href="https://scholar.google.com/citations?user=fj
 (^ Correspondence author) <br>
 <ul>
 <li><p>
+Zhiyi Tu, Peng Zhou, Dongsheng Zhang, Yueyun Wang, Yang Yang, Hong-Bin Shen, Xiaoyong Pan.	An intelligent system for marine megafauna recognition and tracking. ICES Journal of Marine Science 2025(in press).
+</p></li>
+<li><p>
 Xiaoyu Guo, Yi-Fan Li, Yuan Liu, and <b>Xiaoyong Pan</b>，Hong-Bin Shen, Ab-Initio Amino Acid Sequence Design from Any Protein Text Description with ProtDAT. Nature Communications 2025(in press)</p>
 </li>
 <li><p>Xiaojian Liu, Weimin Zhu, Xiaohan Ding,  Yi Fang,  Shengfan Wang,  Lin Zhu, Hong-Bin Shen,<b>Xiaoyong Pan^</b>. Base-resolution binding profile prediction of proteins on RNAs with deep learning. Nucleic Acids Research 2025 (In press )  [<a href="http://www.csbio.sjtu.edu.cn/bioinf/iDeepB/">Server</a>]</p>

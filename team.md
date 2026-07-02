@@ -5,20 +5,19 @@ title: Team
 ---
 
 ## PostDoc
-Xiaojian Liu <br>
+Xue Pang <br>
+
 
 ## PhD student
 Yiming Xue <br>
 Weimin Zhu <br>
 Shengfan Wang <br>
 Bingtong Chen  <br>
-Yi Fang (Co-supervise with Prof. Hong-Bin Shen) <br>
+Jiaqi Huang <br>
 
 ## Master student
 Junjie Peng <br>
-Jiaqi Huang <br>
-Yan Zhou <br>
-
+Ziao Wang <br>
 
 ## Bachelor student
 Zhinuo Zhou <br>
@@ -26,7 +25,10 @@ Chenghan Yang <br>
 Zhiyi Tu<br>
 
 ## Alumni
-Chengyang Song (MSc, Xuan diao sheng at Goverment)<br>
+Xiaojian Liu (PostDoc, will be Research AP at SJTU)<br>
+Jiaqi Huang (Now SJTU PhD student) <br>
+Yan Zhou  (MSc, ByteDance)<br>
+Chengyang Song (MSc, Xuan diao sheng at Goverment，选调生)<br>
 Yuxuan Wang (MSc, now Huawei) <br>
 Yichong Li (Now SJTU PhD student with Prof Yang Yang) <br>
 Zhengxin Dong (MSc, now Alibaba) <br>

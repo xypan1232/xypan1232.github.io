@@ -20,14 +20,13 @@ Junjie Peng <br>
 Ziao Wang <br>
 
 ## Bachelor student
-Zhinuo Zhou <br>
-Chenghan Yang <br>
-Zhiyi Tu<br>
+Juncheng Zheng <br>
+Fei Shi <br>
 
 ## Alumni
 Xiaojian Liu (PostDoc, will be Research AP at SJTU)<br>
 Jiaqi Huang (Now SJTU PhD student) <br>
-Yan Zhou  (MSc, ByteDance)<br>
+Yan Zhou  (MSc, Now ByteDance)<br>
 Chengyang Song (MSc, Xuan diao sheng at Goverment，选调生)<br>
 Yuxuan Wang (MSc, now Huawei) <br>
 Yichong Li (Now SJTU PhD student with Prof Yang Yang) <br>

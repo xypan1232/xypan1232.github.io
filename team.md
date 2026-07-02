@@ -22,10 +22,12 @@ Ziao Wang <br>
 ## Bachelor student
 Juncheng Zheng <br>
 Fei Shi <br>
+Dizhe He <br>
+Xiang Zhou <br>
 
 ## Alumni
 Xiaojian Liu (PostDoc, will be Research AP at SJTU)<br>
-Jiaqi Huang (Now SJTU PhD student) <br>
+Jiaqi Huang (MSc, Now transferred to be SJTU PhD student) <br>
 Yan Zhou  (MSc, Now ByteDance)<br>
 Chengyang Song (MSc, Xuan diao sheng at Goverment，选调生)<br>
 Yuxuan Wang (MSc, now Huawei) <br>

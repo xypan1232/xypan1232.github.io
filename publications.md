@@ -14,10 +14,12 @@ See my full Publication at <a href="https://scholar.google.com/citations?user=fj
 <li><p>
 Shengfan Wang, Jun Wang, Xiaojian Liu, Weimin Zhu, Jiaqi Huang, Yiming Xue, Junchi Yan, Hong-Bin Shen^, Jie Song^, <b>Xiaoyong Pan^</b>.	Structure Alignment-driven Cross-Graph Modeling for Functional RNA Design. Nature Computational Science 2026(in press)  [<a href="[http://www.csbio.sjtu.edu.cn/bioinf/iDeepB/](http://www.csbio.sjtu.edu.cn/bioinf/AlignIF/)">Server</a>].
 </p></li>
-<li><p>
-Yangfeng Zhu, Guicong Sun, Weimin Zhu, Yongxian Fan^，Zeheng Wu, Xianchen Zheng, <b>Xiaoyong Pan^</b>.	Protein-Nucleic Acid Binding Site Prediction Using Interpretable Kolmogorov-Arnold Networks with Hypergraph Representation Learning. Bioinformatics(in press).
+	<li><p>
+ Yan Zhou; Xiaojian Liu; Shengfan Wang; Lin Zhu; Biao Zhang; Yan Huang; Hong-Bin Shen; <b>Xiaoyong Pan^</b>.BindRNAgen: Protein-binding RNA sequence generation using latent diffusion models. Journal of Molecular Biology 2026(in press).
 </p></li>
-	
+<li><p>
+Yangfeng Zhu, Guicong Sun, Weimin Zhu, Yongxian Fan^，Zeheng Wu, Xianchen Zheng, <b>Xiaoyong Pan^</b>.	Protein-Nucleic Acid Binding Site Prediction Using Interpretable Kolmogorov-Arnold Networks with Hypergraph Representation Learning. Bioinformatics 2026(in press).
+</p></li>	
 <li><p>
 Zhiyi Tu(本科生), Peng Zhou, Dongsheng Zhang, Yueyun Wang, Yang Yang, Hong-Bin Shen, <b>Xiaoyong Pan^</b>.	An intelligent system for marine megafauna recognition and tracking. ICES Journal of Marine Science 2025(in press).
 </p></li>

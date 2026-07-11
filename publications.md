@@ -15,6 +15,9 @@ See my full Publication at <a href="https://scholar.google.com/citations?user=fj
 Shengfan Wang, Jun Wang, Xiaojian Liu, Weimin Zhu, Jiaqi Huang, Yiming Xue, Junchi Yan, Hong-Bin Shen^, Jie Song^, <b>Xiaoyong Pan^</b>.	Structure Alignment-driven Cross-Graph Modeling for Functional RNA Design. Nature Computational Science 2026(in press)  [<a href="[http://www.csbio.sjtu.edu.cn/bioinf/iDeepB/](http://www.csbio.sjtu.edu.cn/bioinf/AlignIF/)">Server</a>].
 </p></li>
 	<li><p>
+Yi Fang, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^.	A Comprehensive Review of Artificial Intelligence in Drug Design: Methods, Applications, and Challenges. Digital Discovery 2026 (in press)
+	</p></li>
+	<li><p>
  Yan Zhou; Xiaojian Liu; Shengfan Wang; Lin Zhu; Biao Zhang; Yan Huang; Hong-Bin Shen; <b>Xiaoyong Pan^</b>.BindRNAgen: Protein-binding RNA sequence generation using latent diffusion models. Journal of Molecular Biology 2026(in press).
 </p></li>
 <li><p>

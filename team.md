@@ -26,10 +26,10 @@ Dizhe He <br>
 Xiang Zhou <br>
 
 ## Alumni
-Xiaojian Liu (PostDoc, will be Research AP at SJTU)<br>
-Jiaqi Huang (MSc, Now transferred to be SJTU PhD student) <br>
-Yan Zhou  (MSc, Now ByteDance)<br>
-Chengyang Song (MSc, Xuan diao sheng at Goverment，选调生)<br>
+Xiaojian Liu (PostDoc, now Research AP at SJTU)<br>
+Jiaqi Huang (MSc, now transferred to be SJTU PhD student) <br>
+Yan Zhou  (MSc, now ByteDance)<br>
+Chengyang Song (MSc, now Xuan diao sheng at Goverment，选调生)<br>
 Yuxuan Wang (MSc, now Huawei) <br>
 Yichong Li (Now SJTU PhD student with Prof Yang Yang) <br>
 Zhengxin Dong (MSc, now Alibaba) <br>

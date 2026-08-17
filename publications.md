@@ -15,6 +15,9 @@ See my full Publication at <a href="https://scholar.google.com/citations?user=fj
 Shengfan Wang, Jun Wang, Xiaojian Liu, Weimin Zhu, Jiaqi Huang, Yiming Xue, Junchi Yan, Hong-Bin Shen^, Jie Song^, <b>Xiaoyong Pan^</b>.	Structure Alignment-driven Cross-Graph Modeling for Functional RNA Design. Nature Computational Science 2026(in press)  [<a href="[http://www.csbio.sjtu.edu.cn/bioinf/iDeepB/](http://www.csbio.sjtu.edu.cn/bioinf/AlignIF/)">Server</a>].
 </p></li>
 	<li><p>
+Yi Fang, Yuan Liu, Zeyu Duan, Yu-Xuan Chen, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^.	Condition controllable generation of 3D molecules using textual prompts by multimodal equivariant diffusion model. npj Digital Medicine, 2026 (in press).
+	</p></li>
+	<li><p>
 Yi Fang, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^.	A Comprehensive Review of Artificial Intelligence in Drug Design: Methods, Applications, and Challenges. Digital Discovery 2026 (in press)
 	</p></li>
 	<li><p>

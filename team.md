@@ -31,7 +31,7 @@ Jiaqi Huang (MSc, now transferred to be SJTU PhD student) <br>
 Yan Zhou  (MSc, now ByteDance)<br>
 Chengyang Song (MSc, now Xuan diao sheng at Goverment，选调生)<br>
 Yuxuan Wang (MSc, now Huawei) <br>
-Yichong Li (Now SJTU PhD student with Prof Yang Yang) <br>
+Yichong Li (MSc, Now SJTU PhD student with Prof Yang Yang) <br>
 Zhengxin Dong (MSc, now Alibaba) <br>
 Hehe Wu (MSc, now Huawei) <br>
 Yang Li (BSc, now PhD student at The École polytechnique fédérale de Lausanne (EPFL)) <br>

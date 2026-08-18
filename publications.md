@@ -11,7 +11,7 @@ title: Publications
 See my full Publication at <a href="https://scholar.google.com/citations?user=fjbCfj8AAAAJ">Google Scholar</a> <br><br>
 (^ Correspondence author) <br>
 <ul>
-	<li><p>Yiming Xue, Xiaojian Liu, Weimin Zhu, Shengfan Wang, Hong-Bin Shen,<b>Xiaoyong Pan^</b>. ProRB: A Structure-free Unified Framework for Joint Prediction and Design of Protein-RNA Interactions. Nucleic Acids Research 2025 (In press ) </p>
+	<li><p>Yiming Xue, Xiaojian Liu, Weimin Zhu, Shengfan Wang, Hong-Bin Shen,<b>Xiaoyong Pan^</b>. ProRB: A Structure-free Unified Framework for Joint Prediction and Design of Protein-RNA Interactions. Nucleic Acids Research 2026 (In press ) </p>
 </li>
 <li><p>
 Shengfan Wang, Jun Wang, Xiaojian Liu, Weimin Zhu, Jiaqi Huang, Yiming Xue, Junchi Yan, Hong-Bin Shen^, Jie Song^, <b>Xiaoyong Pan^</b>.	Structure Alignment-driven Cross-Graph Modeling for Functional RNA Design. Nature Computational Science 2026(in press)  [<a href="[http://www.csbio.sjtu.edu.cn/bioinf//AlignIF/](http://www.csbio.sjtu.edu.cn/bioinf/AlignIF/)">Server</a>].

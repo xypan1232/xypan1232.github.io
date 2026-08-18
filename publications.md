@@ -14,7 +14,7 @@ See my full Publication at <a href="https://scholar.google.com/citations?user=fj
 	<li><p>Yiming Xue, Xiaojian Liu, Weimin Zhu, Shengfan Wang, Hong-Bin Shen,<b>Xiaoyong Pan^</b>. ProRB: A Structure-free Unified Framework for Joint Prediction and Design of Protein-RNA Interactions. Nucleic Acids Research 2026 (In press ) </p>
 </li>
 <li><p>
-Shengfan Wang, Jun Wang, Xiaojian Liu, Weimin Zhu, Jiaqi Huang, Yiming Xue, Junchi Yan, Hong-Bin Shen^, Jie Song^, <b>Xiaoyong Pan^</b>.	Structure Alignment-driven Cross-Graph Modeling for Functional RNA Design. Nature Computational Science 2026(in press)  [<a href="[http://www.csbio.sjtu.edu.cn/bioinf//AlignIF/](http://www.csbio.sjtu.edu.cn/bioinf/AlignIF/)">Server</a>].
+Shengfan Wang, Jun Wang, Xiaojian Liu, Weimin Zhu, Jiaqi Huang, Yiming Xue, Junchi Yan, Hong-Bin Shen^, Jie Song^, <b>Xiaoyong Pan^</b>.	Structure-alignment-driven Cross-Graph Modeling for Functional RNA Design. Nature Computational Science 2026(in press)  [<a href="[http://www.csbio.sjtu.edu.cn/bioinf//AlignIF/](http://www.csbio.sjtu.edu.cn/bioinf/AlignIF/)">Server</a>].
 </p></li>
 	<li><p>
 Yi Fang, Yuan Liu, Zeyu Duan, Yu-Xuan Chen, <b>Xiaoyong Pan^</b>, Hong-Bin Shen^.	Condition controllable generation of 3D molecules using textual prompts by multimodal equivariant diffusion model. npj Digital Medicine, 2026 (in press).
